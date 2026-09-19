@@ -1,9 +1,9 @@
 import { defineConfig } from 'vite';
 
-// Static build. Locally base is '/', on GitHub Pages project sites
-// (https://<user>.github.io/<repo>/) it must be '/<repo>/'.
+// Static build. Served from the domain root (web-charts.eegii.dev),
+// so base stays '/'. (Hash routing needs no server rewrites.)
 export default defineConfig({
-  base: process.env.GITHUB_PAGES ? '/web-charts/' : '/',
+  base: '/',
   build: {
     outDir: 'dist',
     sourcemap: false,
