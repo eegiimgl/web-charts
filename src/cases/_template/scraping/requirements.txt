@@ -1,0 +1,5 @@
+# Per-use-case Python deps. Install with: pip install -r requirements.txt
+# Uncomment what the scraper/processor needs:
+# requests
+# beautifulsoup4
+# pandas

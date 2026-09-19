@@ -1,0 +1,172 @@
+:root {
+  --bg: #0f1220;
+  --surface: #171b30;
+  --surface-2: #1e2440;
+  --border: #2b3252;
+  --text: #eef0ff;
+  --muted: #a4abc9;
+  --accent: #5b8cff;
+  --accent-2: #8f7bff;
+  --radius: 14px;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  background: radial-gradient(1200px 600px at 20% -10%, #232a52 0%, var(--bg) 55%) fixed, var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+}
+
+.container { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+
+.site-header {
+  border-bottom: 1px solid var(--border);
+  background: rgba(15, 18, 32, 0.8);
+  backdrop-filter: blur(8px);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.header-inner { display: flex; align-items: center; justify-content: space-between; height: 60px; }
+.brand { display: flex; gap: 10px; align-items: center; text-decoration: none; color: var(--text); font-weight: 700; }
+.brand-mark { font-size: 22px; color: var(--accent); }
+.brand-text em { font-style: normal; color: var(--muted); font-weight: 400; }
+.nav { display: flex; gap: 18px; }
+.nav a { color: var(--muted); text-decoration: none; font-size: 14px; }
+.nav a:hover { color: var(--text); }
+
+main { padding: 40px 0 60px; }
+
+.hero h1 { font-size: clamp(28px, 4vw, 44px); margin: 0 0 10px; letter-spacing: -0.02em; }
+.hero p { color: var(--muted); max-width: 640px; line-height: 1.6; margin: 0 0 28px; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 18px; }
+.card {
+  background: linear-gradient(180deg, var(--surface-2), var(--surface));
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.15s ease, border-color 0.15s ease;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.card:hover { transform: translateY(-2px); border-color: var(--accent); }
+.card h2 { margin: 6px 0 0; font-size: 20px; }
+.tagline { color: var(--muted); margin: 0; font-size: 14px; line-height: 1.5; }
+.card-top { display: flex; gap: 6px; flex-wrap: wrap; }
+.card-link { margin-top: auto; padding-top: 12px; color: var(--accent); font-weight: 600; font-size: 14px; }
+
+.badge {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  background: rgba(91, 140, 255, 0.15);
+  border: 1px solid rgba(91, 140, 255, 0.4);
+  color: #bcd0ff;
+  padding: 3px 8px;
+  border-radius: 999px;
+}
+.tag { font-size: 12px; color: var(--muted); }
+.source-link { font-size: 13px; color: var(--accent); text-decoration: none; font-weight: 600; }
+.source-link:hover { text-decoration: underline; }
+
+.back { color: var(--muted); text-decoration: none; font-size: 14px; }
+.back:hover { color: var(--text); }
+.case-head h1 { font-size: clamp(26px, 3.5vw, 38px); margin: 12px 0 6px; }
+.case-head .tagline { font-size: 17px; }
+.case-head p { color: var(--muted); line-height: 1.6; }
+.meta-row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 12px; }
+
+.charts { display: grid; gap: 18px; margin-top: 28px; }
+
+.tabs { display: flex; gap: 8px; margin-bottom: 2px; flex-wrap: wrap; }
+.tab-btn {
+  background: transparent;
+  border: 1px solid var(--border);
+  color: var(--muted);
+  padding: 9px 20px;
+  border-radius: 999px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.tab-btn:hover { color: var(--text); border-color: var(--accent); }
+.tab-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+.chart-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 22px;
+}
+.chart-card h2 { margin: 0 0 4px; font-size: 19px; }
+.chart-desc { color: var(--muted); font-size: 14px; margin: 0 0 12px; }
+.chart { min-height: 200px; }
+
+/* ApexCharts toolbar: default icons are dark-gray-on-transparent —
+   nearly invisible on dark cards. Force bright, always-visible icons. */
+.chart .apexcharts-toolbar { opacity: 1 !important; }
+.chart .apexcharts-toolbar svg { fill: #eef0ff !important; }
+.chart .apexcharts-toolbar div:hover svg { fill: var(--accent) !important; }
+.chart .apexcharts-toolbar .apexcharts-selected svg { fill: var(--accent) !important; }
+.chart .apexcharts-menu {
+  background: var(--surface-2) !important;
+  border: 1px solid var(--border) !important;
+  color: var(--text) !important;
+}
+.chart .apexcharts-menu-item:hover { background: rgba(91, 140, 255, 0.25) !important; }
+
+.treemap-tip {
+  padding: 4px 2px;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.chart-controls { margin: 4px 0 12px; display: flex; gap: 16px; flex-wrap: wrap; }
+.control-label { display: flex; align-items: center; gap: 10px; font-size: 14px; color: var(--muted); }
+.control-label select {
+  background: var(--surface-2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 8px 12px;
+  font-size: 14px;
+  max-width: 100%;
+}
+.control-label select:focus { outline: none; border-color: var(--accent); }
+
+.data-table { margin-top: 24px; }
+.table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: var(--radius); }
+table { width: 100%; border-collapse: collapse; font-size: 14px; background: var(--surface); }
+th, td { text-align: left; padding: 10px 14px; border-bottom: 1px solid var(--border); }
+th { color: var(--muted); font-weight: 600; text-transform: uppercase; font-size: 12px; letter-spacing: 0.05em; }
+tbody tr:last-child td { border-bottom: none; }
+
+.empty { padding: 60px 0; text-align: left; }
+.empty h1 { margin: 0 0 10px; }
+.empty p { color: var(--muted); }
+.empty code, p code { background: var(--surface-2); padding: 2px 6px; border-radius: 6px; font-size: 0.9em; }
+
+.btn {
+  display: inline-block;
+  margin-top: 16px;
+  background: var(--accent);
+  color: white;
+  padding: 10px 18px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 20px 0 32px;
+  color: var(--muted);
+  font-size: 13px;
+}

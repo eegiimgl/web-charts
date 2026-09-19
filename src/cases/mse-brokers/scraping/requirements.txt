@@ -1,0 +1,4 @@
+# Per-use-case Python deps. Install with: pip install -r requirements.txt
+requests
+openpyxl  # modern .xlsx (and misnamed .xls holding OOXML)
+xlrd       # legacy BIFF .xls (pre-2020 reports)

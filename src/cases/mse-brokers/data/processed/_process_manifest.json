@@ -1,0 +1,2891 @@
+{
+  "generated_at": "2026-09-19T05:00:30.417950+00:00",
+  "files_total": 155,
+  "files_ok": 152,
+  "brokers_count": 94,
+  "month_count": 151,
+  "data_rows": 8512,
+  "warnings": [],
+  "files": [
+    {
+      "rowNumber": 155,
+      "period": "2013",
+      "title": "Гишүүн компаниудын 2013 оны арилжааны тайлан",
+      "file": null,
+      "status": "skipped-no-monthly-period"
+    },
+    {
+      "rowNumber": 154,
+      "period": "2014-01",
+      "title": "Гишүүн компаниудын 2014 оны 1-р сарын арилжааны тайлан",
+      "file": "2014_01_0a00c21b94b2237efde483a1a89bfa7d5cb370ec.xls",
+      "status": "ok",
+      "brokers": 79,
+      "broker_sum": 1835551568.84,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8,
+        11
+      ],
+      "market_monthly_total": 1835551568.84,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 153,
+      "period": "2014-02",
+      "title": "Гишүүн компаниудын 2014 оны 2-р сарын арилжааны тайлан",
+      "file": "2014_02_c6e66a60fdb302ddbf29f5f6f93ac66806019403.xls",
+      "status": "ok",
+      "brokers": 79,
+      "broker_sum": 7098365472.2,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 7098365472.2,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 152,
+      "period": "2014-03",
+      "title": "Гишүүн компаниудын 2014 оны 3-р сарын арилжааны тайлан",
+      "file": "2014_03_9a7185336063f1d77851aacb272165c0ad65d143.xls",
+      "status": "ok",
+      "brokers": 79,
+      "broker_sum": 1722701106.3699994,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 1722701106.3699994,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 151,
+      "period": "2014-04",
+      "title": "Гишүүн компаниудын 2014 оны 4-р сарын арилжааны тайлан",
+      "file": "2014_04_6b9ebaac1b287bc16d198b4e5c45a86b6a56d259.xls",
+      "status": "ok",
+      "brokers": 79,
+      "broker_sum": 6304723194.919999,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 6304723194.92,
+      "market_ytd_total": null,
+      "validation_diff": -1.5126347135662807e-16
+    },
+    {
+      "rowNumber": 150,
+      "period": "2014-05",
+      "title": "Гишүүн компаниудын 2014 оны 5-р сарын арилжааны тайлан",
+      "file": "2014_05_ef9fcc0a62783f87ccf77d84cf2709603a84a93b.xls",
+      "status": "ok",
+      "brokers": 79,
+      "broker_sum": 873960841.03,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 873960841.03,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 149,
+      "period": "2014-06",
+      "title": "Гишүүн компаниудын 2014 оны 6-р сарын арилжааны тайлан",
+      "file": "2014_06_22048b1d2326f6c002c8b5944f82a2d8fa73d2cd.xls",
+      "status": "ok",
+      "brokers": 79,
+      "broker_sum": 7985706220.0,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 7985706220.0,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 148,
+      "period": "2014-07",
+      "title": "Гишүүн компаниудын 2014 оны 7-р сарын арилжааны тайлан",
+      "file": "2014_07_a3d74b1c966e50a4b7ca70116b53d82d92d4b5ac.xls",
+      "status": "ok",
+      "brokers": 71,
+      "broker_sum": 1662417055.0,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 1662417055.0,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 147,
+      "period": "2014-08",
+      "title": "Гишүүн компаниудын 2014 оны 8-р сарын арилжааны тайлан",
+      "file": "2014_08_6d28487309b5a78868e794ddcb672c9b1e44cbdc.xls",
+      "status": "ok",
+      "brokers": 71,
+      "broker_sum": 1805499240.0,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 1805499240.0,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 146,
+      "period": "2014-09",
+      "title": "Гишүүн компаниудын 2014 оны 9-р сарын арилжааны тайлан",
+      "file": "2014_09_cbfd9606269b79dacbc091fe4304dbcbfd6961d7.xls",
+      "status": "ok",
+      "brokers": 71,
+      "broker_sum": 4537572869.2,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 4537572869.2,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 145,
+      "period": "2014-10",
+      "title": "Гишүүн компаниудын 2014 оны 10-р сарын арилжааны тайлан",
+      "file": "2014_10_5caeff5d890a4acad58c468525aa74e6b11785af.xls",
+      "status": "ok",
+      "brokers": 65,
+      "broker_sum": 1336731068.0,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 1336731068.0,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 144,
+      "period": "2014-11",
+      "title": "Гишүүн компаниудын 2014 оны 11-р сарын арилжааны тайлан",
+      "file": "2014_11_bc850d9b511b73b884fe1d5d36021385ac53df04.xls",
+      "status": "ok",
+      "brokers": 71,
+      "broker_sum": 17312669350.0,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 17312669350.0,
+      "market_ytd_total": null,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 143,
+      "period": "2014-12",
+      "title": "Гишүүн компаниудын 2014 оны 12-р сарын арилжааны тайлан",
+      "file": "2014_12_3a7d690af44832b5fd75b7a7c527b791f2a06760.xls",
+      "status": "ok",
+      "brokers": 62,
+      "broker_sum": 37496494514.0,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7
+      ],
+      "market_monthly_total": 37496494514.0,
+      "market_ytd_total": 84530552404.27,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 142,
+      "period": "2012",
+      "title": "Гишүүн компаниудын 2012 оны арилжааны тайлан",
+      "file": "2012_annual_90f00315f73fd533459394406cb834beab6844df.xls",
+      "status": "skipped-no-monthly-period"
+    },
+    {
+      "rowNumber": 141,
+      "period": "2015-01",
+      "title": "Гишүүн компаниудын 2015 оны 1-р сарын арилжааны тайлан",
+      "file": "2015_01_6100eca573559bada15041182062ee33eb622173.xls",
+      "status": "ok",
+      "brokers": 62,
+      "broker_sum": 34546518723.0,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 34546518723.0,
+      "market_ytd_total": 34546518723.0,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 140,
+      "period": "2015-02",
+      "title": "Гишүүн компаниудын 2015 оны 2-р сарын арилжааны тайлан",
+      "file": "2015_02_634f917d17912e9c0fe7b4395d1e4699c8e26d70.xls",
+      "status": "ok",
+      "brokers": 62,
+      "broker_sum": 28271533834.5,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 28271533834.5,
+      "market_ytd_total": 62818052557.5,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 139,
+      "period": "2015-03",
+      "title": "Гишүүн компаниудын 2015 оны 3-р сарын арилжааны тайлан",
+      "file": "2015_03_95e7aef10025578f80e460ed0f5a23311e10feb1.xls",
+      "status": "ok",
+      "brokers": 62,
+      "broker_sum": 52579859874.28,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 52579859874.28,
+      "market_ytd_total": 115397912431.78,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 138,
+      "period": "2015-04",
+      "title": "Гишүүн компаниудын 2015 оны 4-р сарын арилжааны тайлан",
+      "file": "2015_04_24775519b4e276e803f052b10abaf2315725e8ee.xls",
+      "status": "ok",
+      "brokers": 62,
+      "broker_sum": 55766334666.600006,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 55766334666.600006,
+      "market_ytd_total": 171164247098.37997,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 137,
+      "period": "2015-05",
+      "title": "Гишүүн компаниудын 2015 оны 5-р сарын арилжааны тайлан",
+      "file": "2015_05_64e9a769fc7b66d00b019274af12ac1f09738b06.xls",
+      "status": "ok",
+      "brokers": 62,
+      "broker_sum": 30435016341.64,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 30435016341.64,
+      "market_ytd_total": 201599263440.01996,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 136,
+      "period": "2015-06",
+      "title": "Гишүүн компаниудын 2015 оны 6-р сарын арилжааны тайлан",
+      "file": "2015_06_d5a846738b95d538ec14c9da621b536824e8448a.xls",
+      "status": "ok",
+      "brokers": 62,
+      "broker_sum": 96204649744.76001,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 96204649744.76001,
+      "market_ytd_total": 297803913184.7801,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 135,
+      "period": "2015-07",
+      "title": "Гишүүн компаниудын 2015 оны 7-р сарын арилжааны тайлан",
+      "file": "2015_07_a14431db7291188b9812a51947b5275de1dafdd9.xls",
+      "status": "ok",
+      "brokers": 62,
+      "broker_sum": 38020361507.02,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 38020361507.02,
+      "market_ytd_total": 335824274691.8,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 134,
+      "period": "2015-08",
+      "title": "Гишүүн компаниудын 2015 оны 8-р сарын арилжааны тайлан",
+      "file": "2015_08_8cdab1dbd6192edd0d389f1163a8102239d5a6b8.xls",
+      "status": "ok",
+      "brokers": 62,
+      "broker_sum": 37957126143.6,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 37957126143.6,
+      "market_ytd_total": 373781400835.39996,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 133,
+      "period": "2015-09",
+      "title": "Гишүүн компаниудын 2015 оны 9-р сарын арилжааны тайлан",
+      "file": null,
+      "status": "skipped-no-spreadsheet"
+    },
+    {
+      "rowNumber": 132,
+      "period": "2015-10",
+      "title": "Гишүүн компаниудын 2015 оны 10-р сарын арилжааны тайлан",
+      "file": "2015_10_e400cea09dfaa2804676c195f4649703dbe6c6ad.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 40906688993.299995,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 40906688993.299995,
+      "market_ytd_total": 464958290284.8999,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 131,
+      "period": "2015-11",
+      "title": "Гишүүн компаниудын 2015 оны 11-р сарын арилжааны тайлан",
+      "file": "2015_11_108624b32f458698ff017d192774a9009d5a0b96.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 38120319296.98,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        7
+      ],
+      "market_monthly_total": 38120319296.98,
+      "market_ytd_total": 503078609581.8799,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 130,
+      "period": "2015-12",
+      "title": "Гишүүн компаниудын 2015 оны 12-р сарын арилжааны тайлан",
+      "file": "2015_12_87e638f120ce9523203ac49408772edc0716d083.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 78624447466.3,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 78624447466.3,
+      "market_ytd_total": 581703057048.1798,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 129,
+      "period": "2016-01",
+      "title": "Гишүүн компаниудын 2016 оны 1 дүгээр сарын арилжааны тайлан",
+      "file": "2016_01_7a4a0128cc7d0682e5c0801ed71df0595e4c469e.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 27090419970.659996,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 27090419970.659996,
+      "market_ytd_total": 27090419970.659996,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 128,
+      "period": "2016-02",
+      "title": "Гишүүн компаниудын 2016 оны 2-р сарын арилжааны тайлан",
+      "file": "2016_02_a7ecf84f504b889eee759b5501dafbcbda367e12.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 19724091799.100002,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 19724091799.100002,
+      "market_ytd_total": 46814511769.759995,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 127,
+      "period": "2016-03",
+      "title": "Гишүүн компаниудын 2016 оны 3-р сарын арилжааны тайлан",
+      "file": "2016_03_96184eae7aabbe2ab14a51740b35a3dbad3a02bc.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 14960667038.14,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 14960667038.14,
+      "market_ytd_total": 61775178807.90001,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 126,
+      "period": "2016-04",
+      "title": "Гишүүн компаниудын 2016 оны 4-р сарын арилжааны тайлан",
+      "file": "2016_04_2db5a585e8bad91bb3a7b9953803887f048d3d55.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 50502333921.08,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        10
+      ],
+      "market_monthly_total": 50502333921.08,
+      "market_ytd_total": 112277512728.97998,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 125,
+      "period": "2016-05",
+      "title": "Гишүүн компаниудын 2016 оны 5-р сарын арилжааны тайлан",
+      "file": "2016_05_023d242996add65e364af0ee99f512bf117e3c5b.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 3781365009.6,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 3781365009.6,
+      "market_ytd_total": 116058877738.57997,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 124,
+      "period": "2016-06",
+      "title": "Гишүүн компаниудын 2016 оны 6-р сарын арилжааны тайлан",
+      "file": "2016_06_10122015f04e044c930e3abffff1b801dbee2969.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 1032138523.98,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 1032138523.98,
+      "market_ytd_total": 117091016262.56,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 123,
+      "period": "2016-07",
+      "title": "Гишүүн компаниудын 2016 оны 7-р сарын арилжааны тайлан",
+      "file": "2016_07_6c0a3dcb7c1e6dfe76290020568a09c0770e5956.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 6449309893.68,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 6449309893.68,
+      "market_ytd_total": 123540326156.24,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 122,
+      "period": "2016-08",
+      "title": "Гишүүн компаниудын 2016 оны 8-р сарын арилжааны тайлан",
+      "file": "2016_08_188adae823865b398640683608b1fe0a1bc098b5.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 2089010122.5000002,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 2089010122.5000002,
+      "market_ytd_total": 125629336278.73999,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 121,
+      "period": "2016-09",
+      "title": "Гишүүн компаниудын 2016 оны 9-р сарын арилжааны тайлан",
+      "file": "2016_09_3ead109898041f43afa9542c3139c12de24c9df1.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 84391804449.43997,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 84391804449.43997,
+      "market_ytd_total": 210021140728.18,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 120,
+      "period": "2016-10",
+      "title": "Гишүүн компаниудын 2016 оны 10-р сарын арилжааны тайлан",
+      "file": "2016_10_52fe9130921ff916522e69db60b1a1d3125acbe8.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 41178173010.78,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 41178173010.78,
+      "market_ytd_total": 251199313738.96002,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 119,
+      "period": "2016-11",
+      "title": "Гишүүн компаниудын 2016 оны 11-р сарын арилжааны тайлан",
+      "file": "2016_11_b6c499d4c5f1daf71c97c669459bff7dc4a66965.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 48820878694.76,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 48820878694.76,
+      "market_ytd_total": 300020192433.7199,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 118,
+      "period": "2016-12",
+      "title": "Гишүүн компаниудын 2016 оны 12-р сарын арилжааны тайлан",
+      "file": "2016_12_1e59aa742bf9d104c5327b4fbe15b89efd705187.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 116699098561.22002,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 116699098561.22002,
+      "market_ytd_total": 416719290994.93994,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 117,
+      "period": "2017-01",
+      "title": "Гишүүн компаниудын 2017 оны 1-р сарын арилжааны тайлан",
+      "file": "2017_01_023d242996add65e364af0ee99f512bf117xlsmn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 40807821942.960014,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 40807821942.960014,
+      "market_ytd_total": 40807821942.960014,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 116,
+      "period": "2017-02",
+      "title": "Гишүүн компаниудын 2017 оны 2-р сарын арилжааны тайлан",
+      "file": "2017_02_6c7504bb3599fd7e34c10fbd5b6236e8mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 42093796136.380005,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 42093796136.380005,
+      "market_ytd_total": 82901618079.33998,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 115,
+      "period": "2017-03",
+      "title": "Гишүүн компаниудын 2017 оны 3-р сарын арилжааны тайлан",
+      "file": "2017_03_a09478800dbb2b4d20495e35aae5dcd9mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 74066951954.3,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 74066951954.3,
+      "market_ytd_total": 156968570033.63995,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 114,
+      "period": "2017-04",
+      "title": "Гишүүн компаниудын 2017 оны 4-р сарын арилжааны тайлан",
+      "file": "2017_04_5cba9312cc6a97a4ff5b0d1bd63dc8ecmn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 117809770237.38,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 117809770237.38,
+      "market_ytd_total": 274838261902.01993,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 113,
+      "period": "2017-05",
+      "title": "Гишүүн компаниудын 2017 оны 5-р сарын арилжааны тайлан",
+      "file": "2017_05_7ea5f6ce5ac8e858391466521dd012camn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 138946033297.54,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        7
+      ],
+      "market_monthly_total": 138946033297.54,
+      "market_ytd_total": 413784295199.56006,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 112,
+      "period": "2017-06",
+      "title": "Гишүүн компаниудын 2017 оны 6-р сарын арилжааны тайлан",
+      "file": "2017_06_b3e68f28f6aefef6d50face17e0fd342mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 176768865106.32,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10,
+        7
+      ],
+      "market_monthly_total": 176768865106.32,
+      "market_ytd_total": 590553160305.8804,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 111,
+      "period": "2017-07",
+      "title": "Гишүүн компаниудын 2017 оны 7-р сарын арилжааны тайлан",
+      "file": "2017_07_00499b12b7672873463c97591c0b8891mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 76435595961.97998,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10,
+        7
+      ],
+      "market_monthly_total": 76435595961.97998,
+      "market_ytd_total": 666988756267.8604,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 110,
+      "period": "2017-08",
+      "title": "Гишүүн компаниудын 2017 оны 8-р сарын арилжааны тайлан",
+      "file": "2017_08_862fd1ec0ef43e5e7b687f074d80b430mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 80096815499.7,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10,
+        7
+      ],
+      "market_monthly_total": 80096815499.7,
+      "market_ytd_total": 747085571767.56,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 109,
+      "period": "2017-08",
+      "title": "Гишүүн компаниудын 2017 оны 8-р сарын арилжааны тайлан\t",
+      "file": "2017_08_d78ea2e065f02b22d2d687eb77ce8d86mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 90920335948.37999,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10,
+        7
+      ],
+      "market_monthly_total": 90920335948.37999,
+      "market_ytd_total": 838005907715.9401,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 108,
+      "period": "2017-09",
+      "title": "Гишүүн компаниудын 2017 оны 9-р сарын арилжааны тайлан\t",
+      "file": "2017_09_be5e754672ae1520cd2a306982390617mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 90920335948.37999,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10,
+        7
+      ],
+      "market_monthly_total": 90920335948.37999,
+      "market_ytd_total": 838005907715.9401,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 107,
+      "period": "2017-10",
+      "title": "Гишүүн компаниудын 2017 оны 10-р сарын арилжааны тайлан",
+      "file": "2017_10_a959fedd672a88a56d4b7fc24c92e29cmn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 82195776391.62004,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10,
+        7
+      ],
+      "market_monthly_total": 82195776391.62004,
+      "market_ytd_total": 920201684107.56,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 106,
+      "period": "2017-11",
+      "title": "Гишүүн компаниудын 2017 оны 11-р сарын арилжааны тайлан",
+      "file": "2017_11_56d8a7a58bd409a569ec5440ed42aa7fmn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 38864938577.47999,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10,
+        7
+      ],
+      "market_monthly_total": 38864938577.47999,
+      "market_ytd_total": 960405420685.0399,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 105,
+      "period": "2017-12",
+      "title": "Гишүүн компаниудын 2017 оны 12-р сарын арилжааны тайлан",
+      "file": "2017_12_357d350ffb448ec4933b023c0d46fc6bmn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 128971066802.33998,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10,
+        7
+      ],
+      "market_monthly_total": 128971066802.33998,
+      "market_ytd_total": 1089376487487.3798,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 104,
+      "period": "2018-01",
+      "title": "Гишүүн компаниудын 2018 оны 1-р сарын арилжааны тайлан",
+      "file": "2018_01_f6668edf574dfa8a5be969bc963bf187mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 45590117385.140015,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 45590117385.140015,
+      "market_ytd_total": 45590117385.140015,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 103,
+      "period": "2018-02",
+      "title": "Гишүүн компаниудын 2018 оны 2-р сарын арилжааны тайлан",
+      "file": "2018_02_6f9e99fc43be33169e5cae9822955525mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 5454846450.179999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10,
+        7
+      ],
+      "market_monthly_total": 5454846450.179999,
+      "market_ytd_total": 51044963835.32,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 102,
+      "period": "2018-03",
+      "title": "Гишүүн компаниудын 2018 оны 3-р сарын арилжааны тайлан",
+      "file": "2018_03_0dae73d40f9396a97d2393081738cb70mn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 32952068356.07999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 32952068356.07999,
+      "market_ytd_total": 83997032191.4,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 101,
+      "period": "2018-04",
+      "title": "Гишүүн компаниудын 2018 оны 4-р сарын арилжааны тайлан\t",
+      "file": "2018_04_288645f1fb1010bf3c3a553f95da8cadmn.xls",
+      "status": "ok",
+      "brokers": 58,
+      "broker_sum": 21064451133.139996,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 21064451133.139996,
+      "market_ytd_total": 105061483324.54001,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 100,
+      "period": "2018-05",
+      "title": "Гишүүн компаниудын 2018 оны 5-р сарын арилжааны тайлан",
+      "file": "2018_05_4ed7cabdc8819ceb6096f6cffa8e0384mn.xls",
+      "status": "ok",
+      "brokers": 59,
+      "broker_sum": 22871655194.06,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 22871655194.06,
+      "market_ytd_total": 127933138518.59993,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 99,
+      "period": "2018-06",
+      "title": "Гишүүн компаниудын 2018 оны 6-р сарын арилжааны тайлан",
+      "file": "2018_06_e657ba9cb8ea1bf3bc2eb221bfc913c2mn.xls",
+      "status": "ok",
+      "brokers": 59,
+      "broker_sum": 26462037719.699997,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 26462037719.699997,
+      "market_ytd_total": 154395176238.30005,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 98,
+      "period": "2018-07",
+      "title": "Гишүүн компаниудын 2018 оны 7-р сарын арилжааны тайлан",
+      "file": "2018_07_529564580e0328ab6e2db3a731b8c206mn.xls",
+      "status": "ok",
+      "brokers": 59,
+      "broker_sum": 8631414129.719997,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 8631414129.719997,
+      "market_ytd_total": 164019590368.02002,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 97,
+      "period": "2018-08",
+      "title": "Гишүүн компаниудын 2018 оны 8-р сарын арилжааны тайлан",
+      "file": "2018_08_2ceed34d83eff35f583548db3ad6e383mn.xls",
+      "status": "ok",
+      "brokers": 59,
+      "broker_sum": 6553814512.0,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 6553814512.0,
+      "market_ytd_total": 170573404880.02002,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 96,
+      "period": "2018-09",
+      "title": "Гишүүн компаниудын 2018 оны 9-р сарын арилжааны тайлан",
+      "file": "2018_09_371b0386f2b16cf496338ff5732c2a84mn.xls",
+      "status": "ok",
+      "brokers": 59,
+      "broker_sum": 41362740431.8,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 41362740431.8,
+      "market_ytd_total": 211936145311.81998,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 95,
+      "period": "2018-10",
+      "title": "Гишүүн компаниудын 2018 оны 10-р сарын арилжааны тайлан",
+      "file": "2018_10_8873cacb600adb03fbcb4132462a4a02mn.xls",
+      "status": "ok",
+      "brokers": 59,
+      "broker_sum": 18243056652.64,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 18243056652.64,
+      "market_ytd_total": 230179201964.4599,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 94,
+      "period": "2018-11",
+      "title": "Гишүүн компаниудын 2018 оны 11-р сарын арилжааны тайлан",
+      "file": "2018_11_f88d47e43183f70516757e2a4b1184femn.xls",
+      "status": "ok",
+      "brokers": 61,
+      "broker_sum": 10834820171.699997,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 10834820171.699997,
+      "market_ytd_total": 241014022136.16,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 93,
+      "period": "2018-12",
+      "title": "Гишүүн компаниудын 2018 оны 12-р сарын арилжааны тайлан",
+      "file": "2018_12_9133b9c43329572ee2c931f47ff6b95amn.xls",
+      "status": "ok",
+      "brokers": 59,
+      "broker_sum": 247258041147.6,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 247258041147.6,
+      "market_ytd_total": 488272063283.7601,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 92,
+      "period": "2019-01",
+      "title": "Гишүүн компаниудын 2019 оны 1-р сарын арилжааны тайлан",
+      "file": "2019_01_74de7af679d7fde3b3385eff936db9c8mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 7496395432.559999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 7496395432.559999,
+      "market_ytd_total": 7496395432.559999,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 91,
+      "period": "2019-02",
+      "title": "Гишүүн компаниудын 2019 оны 2-р сарын арилжааны тайлан",
+      "file": "2019_02_81b561ce0e6dd1293dd3f907eaf8b792mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 26704228149.840008,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 26704228149.840008,
+      "market_ytd_total": 34200623582.400005,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 90,
+      "period": "2019-03",
+      "title": "Гишүүн компаниудын 2019 оны 3-р сарын арилжааны тайлан",
+      "file": "2019_03_466191d9925f1a6a0f37e8f13f83729emn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 64352221917.880005,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 64352221917.880005,
+      "market_ytd_total": 98552845500.28,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 89,
+      "period": "2019-04",
+      "title": "Гишүүн компаниудын 2019 оны 4-р сарын арилжааны тайлан",
+      "file": "2019_04_ce0f5e07b7c07a89a2b8e2ce21c2fe06mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 5998658697.920001,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 5998658697.920001,
+      "market_ytd_total": 104551504198.19997,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 88,
+      "period": "2019-05",
+      "title": "Гишүүн компаниудын 2019 оны 5-р сарын арилжааны тайлан",
+      "file": "2019_05_d3cfe270aa6b6026961f72d370629e78mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 32019538921.2,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 32019538921.2,
+      "market_ytd_total": 136571043119.4,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 87,
+      "period": "2019-06",
+      "title": "Гишүүн компаниудын 2019 оны 6-р сарын арилжааны тайлан",
+      "file": "2019_06_915a0a847935137552372c3d3ce85cffmn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 43883325321.94002,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 43883325321.94002,
+      "market_ytd_total": 180454368441.33987,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 86,
+      "period": "2019-07",
+      "title": "Гишүүн компаниудын 2019 оны 7-р сарын арилжааны тайлан",
+      "file": "2019_07_e2d39c84e4d2058f0f40ade456e7cb8emn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 32495685850.0,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 32495685850.0,
+      "market_ytd_total": 212950054291.33984,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 85,
+      "period": "2019-08",
+      "title": "Гишүүн компаниудын 2019 оны 8-р сарын арилжааны тайлан",
+      "file": "2019_08_fa9f7b0ece79f2ba52ef4ddeb2de067bmn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 3703240482.2800007,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 3703240482.2800007,
+      "market_ytd_total": 216653294773.62,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 84,
+      "period": "2019-09",
+      "title": "Гишүүн компаниудын 2019 оны 9-р сарын арилжааны тайлан",
+      "file": "2019_09_a9c20815699f75237fe4fb628d020536mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 6385326492.96,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 6385326492.96,
+      "market_ytd_total": 223038621266.57993,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 83,
+      "period": "2019-10",
+      "title": "Гишүүн компаниудын 2019 оны 10-р сарын арилжааны тайлан",
+      "file": "2019_10_4bd7511f0b988c687d7bfc3b0b84fd2emn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 13951200508.14,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 13951200508.14,
+      "market_ytd_total": 236989821774.71997,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 82,
+      "period": "2019-11",
+      "title": "Гишүүн компаниудын 2019 оны 11-р сарын арилжааны тайлан",
+      "file": "2019_11_1c13c007c9ad62f5a5b67035235258cfmn.xls",
+      "status": "ok",
+      "brokers": 53,
+      "broker_sum": 39947154550.28,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 39947154550.28,
+      "market_ytd_total": 276936976325.00006,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 81,
+      "period": "2019-12",
+      "title": "Гишүүн компаниудын 2019 оны 12-р сарын арилжааны тайлан",
+      "file": "2019_12_293699485b06d8c57940378dbc2e97d5mn.xls",
+      "status": "ok",
+      "brokers": 53,
+      "broker_sum": 9466391420.359999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 9466391420.359999,
+      "market_ytd_total": 286403367745.3599,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 80,
+      "period": "2020-01",
+      "title": "Гишүүн компаниудын 2020 оны 1-р сарын арилжааны тайлан",
+      "file": "2020_01_4f8cd6c55bc86060cee12e2c946519b9mn.xls",
+      "status": "ok",
+      "brokers": 53,
+      "broker_sum": 8461850621.139998,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 8461850621.139998,
+      "market_ytd_total": 8461850621.139998,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 79,
+      "period": "2020-02",
+      "title": "Гишүүн компаниудын 2020 оны 2-р сарын арилжааны тайлан",
+      "file": "2020_02_10af0e3a3168f27d425c7e6d9708a6bfmn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 3885956256.259999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 3885956256.259999,
+      "market_ytd_total": 12347806877.4,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 78,
+      "period": "2020-03",
+      "title": "Гишүүн компаниудын 2020 оны 3-р сарын арилжааны тайлан",
+      "file": "2020_03_ff63779f3f32f918773846cf6f0cceb1mn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 6760701946.199999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 6760701946.199999,
+      "market_ytd_total": 19108508823.599995,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 77,
+      "period": "2020-04",
+      "title": "Гишүүн компаниудын 2020 оны 4-р сарын арилжааны тайлан",
+      "file": "2020_04_15efe8672766866a6a8ea0800da99a22mn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 4562158941.700001,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 4562158941.700001,
+      "market_ytd_total": 23670667765.300003,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 76,
+      "period": "2020-05",
+      "title": "Гишүүн компаниудын 2020 оны 5-р сарын арилжааны тайлан",
+      "file": "2020_05_a49833fb150b5ff7893c45ede305cf7bmn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 8979842105.420002,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 8979842105.420002,
+      "market_ytd_total": 32650509870.719994,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 75,
+      "period": "2020-06",
+      "title": "Гишүүн компаниудын 2020 оны 6-р сарын арилжааны тайлан",
+      "file": "2020_06_1f5067c5d15b45cca9541a4fbb1dfa15mn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 25573514572.540005,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 25573514572.540005,
+      "market_ytd_total": 58224024443.26002,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 74,
+      "period": "2020-07",
+      "title": "Гишүүн компаниудын 2020 оны 7-р сарын арилжааны тайлан",
+      "file": "2020_07_0f0f21ed3864239d91979cf710b5410emn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 9409532842.759998,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 9409532842.759998,
+      "market_ytd_total": 67633557286.02,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 73,
+      "period": "2020-08",
+      "title": "Гишүүн компаниудын 2020 оны 8-р сарын арилжааны тайлан",
+      "file": "2020_08_4626e09eab0c020337975d89e6966433mn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 10270255912.58,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 10270255912.58,
+      "market_ytd_total": 77903813198.60002,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 72,
+      "period": "2020-09",
+      "title": "Гишүүн компаниудын 2020 оны 9-р сарын арилжааны тайлан",
+      "file": "2020_09_c1f2d063b2c960e136c634a86c78a5bdmn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 3677204960.100001,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 3677204960.100001,
+      "market_ytd_total": 81581018158.69998,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 71,
+      "period": "2020-10",
+      "title": "Гишүүн компаниудын 2020 оны 10-р сарын арилжааны тайлан",
+      "file": "2020_10_7a554a451deb723f3d5b764fdcbdaebcmn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 15847769763.839998,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        11,
+        12
+      ],
+      "market_monthly_total": 15847769763.839998,
+      "market_ytd_total": 97428787922.53998,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 70,
+      "period": "2020-11",
+      "title": "Гишүүн компаниудын 2020 оны 11-р сарын арилжааны тайлан",
+      "file": "2020_11_7dd77a46e2f2f626e4e0936d08c2a52fmn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 3878425934.8599987,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        11,
+        12
+      ],
+      "market_monthly_total": 3878425934.8599987,
+      "market_ytd_total": 101307213857.39998,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 69,
+      "period": "2020-12",
+      "title": "Гишүүн компаниудын 2020 оны 12-р сарын арилжааны тайлан",
+      "file": "2020_12_f83edbfc86eb5a71d61925a2fc52a85dmn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 29346430797.299995,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        11,
+        12
+      ],
+      "market_monthly_total": 29346430797.299995,
+      "market_ytd_total": 130653644654.7,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 68,
+      "period": "2021-01",
+      "title": "Гишүүн компаниудын 2021 оны 1-р сарын арилжааны тайлан",
+      "file": "2021_01_4e2c5a9f6d8befa24ce3b5d27320bacdmn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 29818507907.139984,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 29818507907.139984,
+      "market_ytd_total": 29818507907.139984,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 67,
+      "period": "2021-02",
+      "title": "Гишүүн компаниудын 2021 оны 2-р сарын арилжааны тайлан",
+      "file": "2021_02_ac365835685201bab4a6c648c444d9dcmn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 64038325369.98002,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 64038325369.98002,
+      "market_ytd_total": 93856833277.12001,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 66,
+      "period": "2021-03",
+      "title": "Гишүүн компаниудын 2021 оны 3-р сарын арилжааны тайлан",
+      "file": "2021_03_61628c0f2e1b3a538347f646291c4bb1mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 49820263309.27998,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 49820263309.27998,
+      "market_ytd_total": 143677096586.40002,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 65,
+      "period": "2021-04",
+      "title": "Гишүүн компаниудын 2021 оны 4-р сарын арилжааны тайлан",
+      "file": "2021_04_773c8b82d2c6538b7ec3baa3c0c6604dmn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 1067370280443.8002,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "market_monthly_total": 1067370280443.8002,
+      "market_ytd_total": 1211047377030.2004,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 64,
+      "period": "2021-05",
+      "title": "Гишүүн компаниудын 2021 оны 5-р сарын арилжааны тайлан",
+      "file": "2021_05_cb03931d6c3984dc453a8b42d64ac21amn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 28890373461.720005,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "market_monthly_total": 28890373461.720005,
+      "market_ytd_total": 1239937750491.9207,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 63,
+      "period": "2021-06",
+      "title": "Гишүүн компаниудын 2021 оны 6-р сарын арилжааны тайлан",
+      "file": "2021_06_8a2a02b18a6ba6f10238dae429f4fbdfmn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 53372388230.08001,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "market_monthly_total": 53372388230.08001,
+      "market_ytd_total": 1293310138722.0002,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 62,
+      "period": "2021-07",
+      "title": "Гишүүн компаниудын 2021 оны 7-р сарын арилжааны тайлан\t",
+      "file": "2021_07_2d7a6ba820b1e4fe84578ea30db7403emn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 48181418305.820015,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "market_monthly_total": 48181418305.820015,
+      "market_ytd_total": 1341491557027.8203,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 61,
+      "period": "2021-08",
+      "title": "Гишүүн компаниудын 2021 оны 8-р сарын арилжааны тайлан\t",
+      "file": "2021_08_b115159cfd56db4d3a5b8e813eef5a27mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 844224621918.4801,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "market_monthly_total": 844224621918.4801,
+      "market_ytd_total": 2185716178946.2998,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 60,
+      "period": "2021-09",
+      "title": "Гишүүн компаниудын 2021 оны 9-р сарын арилжааны тайлан\t",
+      "file": "2021_09_0e0a325a76dfb543af817d0ad31a396bmn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 108857195135.46004,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "market_monthly_total": 108857195135.46004,
+      "market_ytd_total": 2294573374081.76,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 59,
+      "period": "2021-10",
+      "title": "Гишүүн компаниудын 2021 оны 10-р сарын арилжааны тайлан\t",
+      "file": "2021_10_9e949ce59e5dea50767706c2e707c763mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 51838117202.939995,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9
+      ],
+      "market_monthly_total": 51838117202.939995,
+      "market_ytd_total": 2346411491284.7,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 58,
+      "period": "2021-11",
+      "title": "Гишүүн компаниудын 2021 оны 11-р сарын арилжааны тайлан\t",
+      "file": "2021_11_98a8d560e039ebe5943043fd1f495794mn.xls",
+      "status": "ok",
+      "brokers": 53,
+      "broker_sum": 364033339239.09985,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9
+      ],
+      "market_monthly_total": 364033339239.09985,
+      "market_ytd_total": 2710444830523.801,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 57,
+      "period": "2021-12",
+      "title": "Гишүүн компаниудын 2021 оны 12-р сарын арилжааны тайлан\t",
+      "file": "2021_12_742a482dcf25ec90a7414471b15d0c14mn.xls",
+      "status": "ok",
+      "brokers": 53,
+      "broker_sum": 117945910012.51997,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "market_monthly_total": 117945910012.51997,
+      "market_ytd_total": 2828390740536.3193,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 56,
+      "period": "2022-01",
+      "title": "Гишүүн компаниудын 2022 оны 1-р сарын арилжааны тайлан",
+      "file": "2022_01_43565d52a382cfcacb0a9c8f8350a9e8mn.xls",
+      "status": "ok",
+      "brokers": 53,
+      "broker_sum": 84308681357.06,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 84308681357.06,
+      "market_ytd_total": 84308681357.06,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 55,
+      "period": "2022-02",
+      "title": "Гишүүн компаниудын 2022 оны 2-р сарын арилжааны тайлан",
+      "file": "2022_02_f0a39fceade6df0f92048e242a5fccf2mn.xls",
+      "status": "ok",
+      "brokers": 53,
+      "broker_sum": 106383980628.92,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 106383980628.92,
+      "market_ytd_total": 190692661985.98004,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 54,
+      "period": "2022-03",
+      "title": "Гишүүн компаниудын 2022 оны 3-р сарын арилжааны тайлан",
+      "file": "2022_03_362822f631e1d2ea90c5dca5cf2e59edmn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 58989554658.96,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 58989554658.96,
+      "market_ytd_total": 239651301354.0001,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 53,
+      "period": "2022-04",
+      "title": "Гишүүн компаниудын 2022 оны 4-р сарын арилжааны тайлан",
+      "file": "2022_04_4d6ecde712c3743cfc7fabe28a96c105mn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 24864673390.879997,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 24864673390.88,
+      "market_ytd_total": 264515974744.88004,
+      "validation_diff": -1.5341835405021548e-16
+    },
+    {
+      "rowNumber": 52,
+      "period": "2022-05",
+      "title": "Гишүүн компаниудын 2022 оны 5-р сарын арилжааны тайлан",
+      "file": "2022_05_44b51529b2e20434f6c87e74198ce118mn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 168949208923.18002,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10
+      ],
+      "market_monthly_total": 168949208923.17996,
+      "market_ytd_total": 433465183668.05994,
+      "validation_diff": 3.6126334440401116e-16
+    },
+    {
+      "rowNumber": 51,
+      "period": "2022-06",
+      "title": "Гишүүн компаниудын 2022 оны 6-р сарын арилжааны тайлан",
+      "file": "2022_06_7e3b037cac0798e1a1691e069f1d3d9bmn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 118404066577.16,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 118404066577.16,
+      "market_ytd_total": 551869250245.2198,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 50,
+      "period": "2022-07",
+      "title": "Гишүүн компаниудын 2022 оны 7-р сарын арилжааны тайлан",
+      "file": "2022_07_16784cda411730f554a1f7c535190c75mn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 49493267910.30001,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        11
+      ],
+      "market_monthly_total": 49493267910.3,
+      "market_ytd_total": 601362518155.5197,
+      "validation_diff": 1.5415014714884594e-16
+    },
+    {
+      "rowNumber": 49,
+      "period": "2022-08",
+      "title": "Гишүүн компаниудын 2022 оны 8-р сарын арилжааны тайлан",
+      "file": "2022_08_dca1ad22d52bb9b724900a821b81bbcbmn.xls",
+      "status": "ok",
+      "brokers": 54,
+      "broker_sum": 19505909597.199997,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 19505909597.2,
+      "market_ytd_total": 620868427752.7197,
+      "validation_diff": -1.9556623322875368e-16
+    },
+    {
+      "rowNumber": 48,
+      "period": "2022-09",
+      "title": "Гишүүн компаниудын 2022 оны 9-р сарын арилжааны тайлан",
+      "file": "2022_09_449afe2fd0ff14e5807bf92bd8f2206cmn.xls",
+      "status": "ok",
+      "brokers": 55,
+      "broker_sum": 35953091080.17999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 35953091080.18,
+      "market_ytd_total": 656821518832.8998,
+      "validation_diff": -2.122041332756472e-16
+    },
+    {
+      "rowNumber": 47,
+      "period": "2022-10",
+      "title": "Гишүүн компаниудын 2022 оны 10-р сарын арилжааны тайлан",
+      "file": "2022_10_f14156f88b2715795937e0501866e7d3mn.xls",
+      "status": "ok",
+      "brokers": 55,
+      "broker_sum": 136962077045.68001,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        11
+      ],
+      "market_monthly_total": 136962077045.68,
+      "market_ytd_total": 793783595878.58,
+      "validation_diff": 1.1140886142819552e-16
+    },
+    {
+      "rowNumber": 46,
+      "period": "2022-11",
+      "title": "Гишүүн компаниудын 2022 оны 11-р сарын арилжааны тайлан",
+      "file": "2022_11_1916127bda3dde520567a5ed170df536mn.xls",
+      "status": "ok",
+      "brokers": 55,
+      "broker_sum": 26403415818.539997,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8
+      ],
+      "market_monthly_total": 26403415818.54,
+      "market_ytd_total": 820187011697.1201,
+      "validation_diff": -1.4447741503757966e-16
+    },
+    {
+      "rowNumber": 45,
+      "period": "2022-12",
+      "title": "Гишүүн компаниудын 2022 оны 12-р сарын арилжааны тайлан",
+      "file": "2022_12_255d920a92bd206d5b6fc4d653577beemn.xls",
+      "status": "ok",
+      "brokers": 55,
+      "broker_sum": 340840905431.3599,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        9,
+        10,
+        11
+      ],
+      "market_monthly_total": 340840905431.36,
+      "market_ytd_total": 1161027917128.48,
+      "validation_diff": -1.7907227471055853e-16
+    },
+    {
+      "rowNumber": 44,
+      "period": "2023-01",
+      "title": "Гишүүн компаниудын 2023 оны 1-р сарын арилжааны тайлан",
+      "file": "2023_01_3d78ee3c3ac241ee5b31b6f0d91b2bfamn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 76962398801.58,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10
+      ],
+      "market_monthly_total": 76962398801.58,
+      "market_ytd_total": 76962398801.58,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 43,
+      "period": "2023-02",
+      "title": "Гишүүн компаниудын 2023 оны 2-р сарын арилжааны тайлан",
+      "file": "2023_02_996d7276f6f02717726750ed76923622mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 33272875243.97999,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8
+      ],
+      "market_monthly_total": 33272875243.98,
+      "market_ytd_total": 110235274045.56,
+      "validation_diff": -3.4394658450641587e-16
+    },
+    {
+      "rowNumber": 42,
+      "period": "2023-03",
+      "title": "Гишүүн компаниудын 2023 оны 3-р сарын арилжааны тайлан",
+      "file": "2023_03_6963d6314d2d5462188f8e1a23b4309dmn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 38051303515.28,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8
+      ],
+      "market_monthly_total": 38051303515.28,
+      "market_ytd_total": 148286577560.84,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 41,
+      "period": "2023-04",
+      "title": "Гишүүн компаниудын 2023 оны 4-р сарын арилжааны тайлан",
+      "file": "2023_04_3a4359ee9db4a493a514c7a18ff7a989mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 92703011999.21997,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 92703011999.22,
+      "market_ytd_total": 240989589560.06,
+      "validation_diff": -3.291972662685089e-16
+    },
+    {
+      "rowNumber": 40,
+      "period": "2023-05",
+      "title": "Гишүүн компаниудын 2023 оны 5-р сарын арилжааны тайлан",
+      "file": "2023_05_7373694aaad09199e471bd9b3e034001mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 593379773846.98,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10
+      ],
+      "market_monthly_total": 593379773846.9799,
+      "market_ytd_total": 834369363407.0398,
+      "validation_diff": 2.0572037989869093e-16
+    },
+    {
+      "rowNumber": 39,
+      "period": "2023-06",
+      "title": "Гишүүн компаниудын 2023 оны 6-р сарын арилжааны тайлан",
+      "file": "2023_06_34c2fddca37f14aeb991ccf432fba0f2mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 191347735851.96002,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        10,
+        11
+      ],
+      "market_monthly_total": 191347735851.96,
+      "market_ytd_total": 1025717099259.0,
+      "validation_diff": 1.5948753189643454e-16
+    },
+    {
+      "rowNumber": 38,
+      "period": "2023-07",
+      "title": "Гишүүн компаниудын 2023 оны 7-р сарын арилжааны тайлан",
+      "file": "2023_07_8eb754e32e6e6224fbcafe239045b854mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 81239751036.48001,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        6,
+        7,
+        9,
+        10
+      ],
+      "market_monthly_total": 81239751036.48,
+      "market_ytd_total": 1106956850295.48,
+      "validation_diff": 1.8782417311505762e-16
+    },
+    {
+      "rowNumber": 37,
+      "period": "2023-08",
+      "title": "Гишүүн компаниудын 2023 оны 8-р сарын арилжааны тайлан",
+      "file": "2023_08_900c99707919fb1d5ef6d47b96576634mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 42944696508.240005,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8,
+        9
+      ],
+      "market_monthly_total": 42944696508.24,
+      "market_ytd_total": 1149901546803.72,
+      "validation_diff": 1.77656268447167e-16
+    },
+    {
+      "rowNumber": 36,
+      "period": "2023-09",
+      "title": "Гишүүн компаниудын 2023 оны 9-р сарын арилжааны тайлан",
+      "file": "2023_09_5fd4c6ae66d13ea7f5001a3292e34fe9mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 78509145452.01999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        9,
+        10
+      ],
+      "market_monthly_total": 78509145452.02,
+      "market_ytd_total": 1228410692255.74,
+      "validation_diff": -1.9435683543167898e-16
+    },
+    {
+      "rowNumber": 35,
+      "period": "2023-10",
+      "title": "Гишүүн компаниудын 2023 оны 10-р сарын арилжааны тайлан",
+      "file": "2023_10_4339651c4a1e517001fbf5ceec0d0ccamn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 69480191281.52002,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        6,
+        8,
+        9
+      ],
+      "market_monthly_total": 69480191281.52,
+      "market_ytd_total": 1297890883537.26,
+      "validation_diff": 2.196135154647805e-16
+    },
+    {
+      "rowNumber": 34,
+      "period": "2023-11",
+      "title": "Гишүүн компаниудын 2023 оны 11-р сарын арилжааны тайлан",
+      "file": "2023_11_2e980e93f99e2d463aa490900c0047f0mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 40127809066.18001,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        6,
+        8,
+        9
+      ],
+      "market_monthly_total": 40127809066.18,
+      "market_ytd_total": 1338018692603.4395,
+      "validation_diff": 1.9012736326240416e-16
+    },
+    {
+      "rowNumber": 33,
+      "period": "2023-12",
+      "title": "Гишүүн компаниудын 2023 оны 12-р сарын арилжааны тайлан",
+      "file": "2023_12_1f4ca84c7cd9778a25a5ca0fcfa11818mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 113699870468.58002,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        9,
+        10
+      ],
+      "market_monthly_total": 113699870468.58,
+      "market_ytd_total": 1451718563072.0195,
+      "validation_diff": 1.3420234341178635e-16
+    },
+    {
+      "rowNumber": 32,
+      "period": "2024-01",
+      "title": "Гишүүн компаниудын 2024 оны 1-р сарын арилжааны тайлан",
+      "file": "2024_01_f29dff49f9ad75df47a914b4ef563675mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 141685361653.98,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        6,
+        8,
+        9
+      ],
+      "market_monthly_total": 141685361653.98,
+      "market_ytd_total": 141685361653.98,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 31,
+      "period": "2024-02",
+      "title": "Гишүүн компаниудын 2024 оны 2-р сарын арилжааны тайлан",
+      "file": "2024_02_a5973eca961675e014cd9bda18c10669mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 52820248454.15999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8,
+        9
+      ],
+      "market_monthly_total": 52820248169.16,
+      "market_ytd_total": 194505609823.14,
+      "validation_diff": 5.395657813429453e-09
+    },
+    {
+      "rowNumber": 30,
+      "period": "2024-03",
+      "title": "Гишүүн компаниудын 2024 оны 3-р сарын арилжааны тайлан",
+      "file": "2024_03_c13f8845d160d7d3fc9fa1a472ee196amn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 181521295659.69998,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8
+      ],
+      "market_monthly_total": 181521295659.7,
+      "market_ytd_total": 376026905482.84,
+      "validation_diff": -1.6812120040290833e-16
+    },
+    {
+      "rowNumber": 29,
+      "period": "2024-04",
+      "title": "Гишүүн компаниудын 2024 оны 4-р сарын арилжааны тайлан",
+      "file": "2024_04_c6963e3fb2cbfa12d08e94521740e926mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 92623655448.55997,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        6,
+        8,
+        9
+      ],
+      "market_monthly_total": 92623655448.56,
+      "market_ytd_total": 468650560931.4,
+      "validation_diff": -3.294793104116736e-16
+    },
+    {
+      "rowNumber": 28,
+      "period": "2024-05",
+      "title": "Гишүүн компаниудын 2024 оны 5-р сарын арилжааны тайлан",
+      "file": "2024_05_fa11fbcba8da5f1259d6ec3cff0cefe0mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 56318763771.659966,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8,
+        9
+      ],
+      "market_monthly_total": 56318763771.66,
+      "market_ytd_total": 524969324703.06006,
+      "validation_diff": -6.773403764847165e-16
+    },
+    {
+      "rowNumber": 27,
+      "period": "2024-06",
+      "title": "Гишүүн компаниудын 2024 оны 6-р сарын арилжааны тайлан",
+      "file": "2024_06_301d131b1dba568dcc933988bdd42a8dmn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 1069205872173.8801,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8,
+        9,
+        11,
+        12
+      ],
+      "market_monthly_total": 1069205872173.88,
+      "market_ytd_total": 1594175196876.94,
+      "validation_diff": 1.1416913774688686e-16
+    },
+    {
+      "rowNumber": 26,
+      "period": "2024-07",
+      "title": "Гишүүн компаниудын 2024 оны 7-р сарын арилжааны тайлан",
+      "file": "2024_07_af17d953ab22ce49ef8c73a102066556mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 76381599660.06001,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8,
+        9
+      ],
+      "market_monthly_total": 76381599660.06,
+      "market_ytd_total": 1670556796537.0,
+      "validation_diff": 1.9977048307982522e-16
+    },
+    {
+      "rowNumber": 25,
+      "period": "2024-08",
+      "title": "Гишүүн компаниудын 2024 оны 8-р сарын арилжааны тайлан",
+      "file": "2024_08_d0ae7be0f4780758d93a11e8271dcb8amn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 115215152652.54001,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        6,
+        8,
+        9
+      ],
+      "market_monthly_total": 115215152652.54,
+      "market_ytd_total": 1785771949189.54,
+      "validation_diff": 1.3243734622751125e-16
+    },
+    {
+      "rowNumber": 24,
+      "period": "2024-09",
+      "title": "Гишүүн компаниудын 2024 оны 9-р сарын арилжааны тайлан",
+      "file": "2024_09_469c94d4debcec9c54748d7474512b6amn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 160035052724.5,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        6,
+        8,
+        9
+      ],
+      "market_monthly_total": 160035052724.5,
+      "market_ytd_total": 1945807001914.04,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 23,
+      "period": "2024-10",
+      "title": "Гишүүн компаниудын 2024 оны 10-р сарын арилжааны тайлан",
+      "file": "2024_10_2eeb813fdfac2763123d65be01330bb0mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 264507542100.30002,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        6,
+        8,
+        9
+      ],
+      "market_monthly_total": 264507542100.3,
+      "market_ytd_total": 2210314544014.34,
+      "validation_diff": 1.15375077333061e-16
+    },
+    {
+      "rowNumber": 22,
+      "period": "2024-11",
+      "title": "Гишүүн компаниудын 2024 оны 11-р сарын арилжааны тайлан",
+      "file": "2024_11_28f8c5f11b9a0e4d5fc2bf347b9e3187mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 141193330602.94,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8,
+        9
+      ],
+      "market_monthly_total": 141193330602.94,
+      "market_ytd_total": 2351507874617.28,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 21,
+      "period": "2024-12",
+      "title": "Гишүүн компаниудын 2024 оны 12-р сарын арилжааны тайлан",
+      "file": "2024_12_f48fb0d71ed16a863e317ea3ba86594bmn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 460742060671.8801,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        10,
+        11
+      ],
+      "market_monthly_total": 460742060671.88,
+      "market_ytd_total": 2812249935289.1597,
+      "validation_diff": 2.6494284529176736e-16
+    },
+    {
+      "rowNumber": 20,
+      "period": "2025-01",
+      "title": "Гишүүн компаниудын 2025 оны 01-р сарын арилжааны тайлан",
+      "file": "2025_01_e681092d8545cce74bf08f0065f77833mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 111179479692.36,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9,
+        10
+      ],
+      "market_monthly_total": 111179479692.36,
+      "market_ytd_total": 111179479692.36,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 19,
+      "period": "2025-02",
+      "title": "Гишүүн компаниудын 2025 оны 02-р сарын арилжааны тайлан",
+      "file": "2025_02_adc23ec9293a1f5e5bd15b882be5dd80mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 60865670078.49999,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8
+      ],
+      "market_monthly_total": 60865670078.5,
+      "market_ytd_total": 172045149770.86,
+      "validation_diff": -1.2534807423314615e-16
+    },
+    {
+      "rowNumber": 18,
+      "period": "2025-03",
+      "title": "Гишүүн компаниудын 2025 оны 03-р сарын арилжааны тайлан",
+      "file": "2025_03_de5482ae4ed37cdcdb806d07f3649b69mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 76556799676.09999,
+      "has_ipo_col": false,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        8
+      ],
+      "market_monthly_total": 76556799676.1,
+      "market_ytd_total": 248601949446.96,
+      "validation_diff": -1.9931330890342307e-16
+    },
+    {
+      "rowNumber": 17,
+      "period": "2025-04",
+      "title": "Гишүүн компаниудын 2025 оны 04-р сарын арилжааны тайлан",
+      "file": "2025_04_e0b7842b29d5f0a17fda265d2cbcf89emn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 124428389185.01001,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8,
+        9
+      ],
+      "market_monthly_total": 124428389185.01,
+      "market_ytd_total": 373030338631.97,
+      "validation_diff": 1.2263109056094926e-16
+    },
+    {
+      "rowNumber": 16,
+      "period": "2025-05",
+      "title": "Гишүүн компаниудын 2025 оны 05-р сарын арилжааны тайлан",
+      "file": "2025_05_5772991f9b9ec9900ddde39baffac6f1mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 107313632331.80997,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8,
+        9
+      ],
+      "market_monthly_total": 107313632331.81,
+      "market_ytd_total": 480343970963.77997,
+      "validation_diff": -2.843774594325604e-16
+    },
+    {
+      "rowNumber": 15,
+      "period": "2025-06",
+      "title": "Гишүүн компаниудын 2025 оны 06-р сарын арилжааны тайлан",
+      "file": "2025_06_ba2aacd699bbfda47718518c48090814mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 110203931884.94,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8,
+        9
+      ],
+      "market_monthly_total": 110203931884.94,
+      "market_ytd_total": 590547902848.72,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 14,
+      "period": "2025-07",
+      "title": "Гишүүн компаниудын 2025 оны 07-р сарын арилжааны тайлан",
+      "file": "2025_07_50e85ca34e727e07ce777e2b48ac2691mn.xls",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 150067441821.53,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        10
+      ],
+      "market_monthly_total": 150067441821.53,
+      "market_ytd_total": 740615344670.25,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 13,
+      "period": "2025-08",
+      "title": "Гишүүн компаниудын 2025 оны 08-р сарын арилжааны тайлан",
+      "file": "2025_08_e937ffe1b26ea5cc9a382c022c8a756fmn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 55174330418.92999,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8
+      ],
+      "market_monthly_total": 55174330418.93,
+      "market_ytd_total": 795789675089.18,
+      "validation_diff": -1.3827797226212279e-16
+    },
+    {
+      "rowNumber": 12,
+      "period": "2025-09",
+      "title": "Гишүүн компаниудын 2025 оны 09-р сарын арилжааны тайлан",
+      "file": "2025_09_cfe9dd4797cd0cdaaee005a20d4ab2e8mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 202892407846.99994,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9
+      ],
+      "market_monthly_total": 202892407847.0,
+      "market_ytd_total": 998682082936.18,
+      "validation_diff": -3.0082523489999814e-16
+    },
+    {
+      "rowNumber": 11,
+      "period": "2025-10",
+      "title": "Гишүүн компаниудын 2025 оны 10-р сарын арилжааны тайлан",
+      "file": "2025_10_89bc9e4e99fd220785fb50c7eac6e826mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 153056644071.4,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9
+      ],
+      "market_monthly_total": 153056644071.4,
+      "market_ytd_total": 1151738727007.5803,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 10,
+      "period": "2025-11",
+      "title": "Гишүүн компаниудын 2025 оны 11-р сарын арилжааны тайлан",
+      "file": "2025_11_999bc2cb34bfcdef6203dc0027ddbf8emn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 93827918164.71994,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8
+      ],
+      "market_monthly_total": 93827918164.71996,
+      "market_ytd_total": 1245566645172.2998,
+      "validation_diff": -1.6262525441215028e-16
+    },
+    {
+      "rowNumber": 9,
+      "period": "2025-12",
+      "title": "Гишүүн компаниудын 2025 оны 12-р сарын арилжааны тайлан",
+      "file": "2025_12_9a99be47196838ff0aacd6ccf3cd1cc6mn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 422545825687.1001,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9
+      ],
+      "market_monthly_total": 422545825687.1001,
+      "market_ytd_total": 1668112470859.4004,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 8,
+      "period": "2026-01",
+      "title": "Гишүүн компаниудын 2026 оны 1-р сарын арилжааны тайлан",
+      "file": "2026_01_5a6c8a7264d014d793661c954fd25e8cmn.xls",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 209591457106.18005,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        9
+      ],
+      "market_monthly_total": 209591457106.18005,
+      "market_ytd_total": 209591457106.18005,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 7,
+      "period": "2026-02",
+      "title": "Гишүүн компаниудын 2026 оны 2-р сарын арилжааны тайлан",
+      "file": "2026_02_69ae8df2775a2_aH0GAQ1hwK.xlsx",
+      "status": "ok",
+      "brokers": 52,
+      "broker_sum": 88247497895.95995,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8
+      ],
+      "market_monthly_total": 88247497895.95995,
+      "market_ytd_total": 297838955002.14,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 6,
+      "period": "2026-03",
+      "title": "Гишүүн компаниудын 2026 оны 3-р сарын арилжааны тайлан",
+      "file": "2026_03_6a0684ba41b70_u5VV5fM3gN.xlsx",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 107106166997.01997,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8
+      ],
+      "market_monthly_total": 107106166997.01997,
+      "market_ytd_total": 404945121999.1601,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 5,
+      "period": "2026-04",
+      "title": "Гишүүн компаниудын 2026 оны 4-р сарын арилжааны тайлан",
+      "file": "2026_04_6a068b3d9dc88_inosMSWwVN.xlsx",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 537568195123.76,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        9
+      ],
+      "market_monthly_total": 537568195123.75995,
+      "market_ytd_total": 942513317122.9199,
+      "validation_diff": 1.1353937380158508e-16
+    },
+    {
+      "rowNumber": 4,
+      "period": "2026-05",
+      "title": "Гишүүн компаниудын 2026 оны 5-р сарын арилжааны тайлан",
+      "file": "2026_05_6a28fbe0c8a31_5J07j267eX.xlsx",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 421789142574.89996,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        9
+      ],
+      "market_monthly_total": 421789142574.89996,
+      "market_ytd_total": 1364302459697.8198,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 3,
+      "period": "2026-06",
+      "title": "Гишүүн компаниудын 2026 оны 6-р сарын арилжааны тайлан",
+      "file": "2026_06_6a5edc72afa40_1SFEeEruYZ.xlsx",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 421789142574.89996,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        7,
+        9
+      ],
+      "market_monthly_total": 421789142574.89996,
+      "market_ytd_total": 1364302459697.8198,
+      "validation_diff": 0.0
+    },
+    {
+      "rowNumber": 2,
+      "period": "2026-07",
+      "title": "Гишүүн компаниудын 2026 оны 7-р сарын арилжааны тайлан",
+      "file": "2026_07_6a7be96e05b96_IpPmcaeenm.xlsx",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 96813791066.28004,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8
+      ],
+      "market_monthly_total": 96813791066.28,
+      "market_ytd_total": 1571679732115.8198,
+      "validation_diff": 4.728289914415281e-16
+    },
+    {
+      "rowNumber": 1,
+      "period": "2026-08",
+      "title": "Гишүүн компаниудын 2026 оны 8-р сарын арилжааны тайлан",
+      "file": "2026_08_6aa76683efd58_0EU5FwxmRq.xlsx",
+      "status": "ok",
+      "brokers": 51,
+      "broker_sum": 94674278260.95998,
+      "has_ipo_col": true,
+      "has_stocks_col": true,
+      "bond_cols": [
+        8
+      ],
+      "market_monthly_total": 94674278260.95996,
+      "market_ytd_total": 1666354010376.78,
+      "validation_diff": 1.6117143265080627e-16
+    }
+  ]
+}

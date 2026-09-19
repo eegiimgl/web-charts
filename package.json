@@ -1,0 +1,21 @@
+{
+  "name": "web-charts",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Visual chart use-cases showcase for *.eegii.dev (ApexCharts)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "new:case": "node scripts/new-case.mjs"
+  },
+  "dependencies": {
+    "apexcharts": "^4.5.0"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.63.0",
+    "typescript": "^5.6.3",
+    "vite": "^7.2.4"
+  }
+}

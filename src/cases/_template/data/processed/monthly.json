@@ -1,0 +1,5 @@
+{
+  "generatedBy": "process_monthly.py — do not edit by hand, re-run the script",
+  "months": ["Jan", "Feb", "Mar"],
+  "values": [12, 19, 8]
+}

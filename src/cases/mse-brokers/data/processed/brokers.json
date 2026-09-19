@@ -1,0 +1,1184 @@
+[
+  {
+    "code": "ABJY",
+    "name": "АБЖЯ ХХК",
+    "name_variants": [
+      "АБЖЯ",
+      "АБЖЯ ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2015-08",
+    "months_active": 20
+  },
+  {
+    "code": "ACE",
+    "name": "АСЕ ЭНД Т КАПИТАЛ ҮЦК ХХК",
+    "name_variants": [
+      "ACE AND T CAPITAL",
+      "АСЕ ЭНД Т КАПИТАЛ ҮЦК ХХК",
+      "АСЕ энд Т Капитал ХХК",
+      "Асе энд Т Капитал"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2020-12",
+    "months_active": 83
+  },
+  {
+    "code": "ALTN",
+    "name": "АЛТАН ХОРОМСОГ ҮЦК ХХК",
+    "name_variants": [
+      "ALTAN KHOROMSOG",
+      "АЛТАН ХОРОМСОГ ҮЦК ХХК",
+      "Алтан Хоромсог",
+      "Алтан хоромсог ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "APS",
+    "name": "АЗИА ПАСИФИК СЕКЬЮРИТИС ҮЦК ХХК",
+    "name_variants": [
+      "ASIA PACIFIC SECURITIES",
+      "АЗИА ПАСИФИК СЕКЬЮРИТИС ҮЦК ХХК",
+      "Азиа Пасифик Секьюритис",
+      "Азиа Пасифик секьюритис ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2022-12",
+    "months_active": 107
+  },
+  {
+    "code": "ARD",
+    "name": "ӨЛЗИЙ ЭНД КО КАПИТАЛ ҮЦК ХХК",
+    "name_variants": [
+      "ARD CAPITAL GROUP",
+      "ULZII&CO CAPITAL",
+      "АРД КАПИТАЛ ГРУПП ҮЦК ХХК",
+      "Ард Капитал Групп",
+      "Ард капитал групп ХХК",
+      "ӨЛЗИЙ ЭНД КО КАПИТАЛ ҮЦК ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "ARGB",
+    "name": "АРГАЙ БЭСТ ҮЦК ХХК",
+    "name_variants": [
+      "ARGAI BEST",
+      "АРГАЙ БЭСТ ҮЦК ХХК",
+      "Аргай Бэст",
+      "Аргай бэст ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "BATS",
+    "name": "ФИНГЕЙТ СЕКЮРИТИС ҮЦК ХХК",
+    "name_variants": [
+      "BATS",
+      "FINGATE SECURITIES",
+      "БАТС ҮЦК ХХК",
+      "Батс",
+      "Батс ХХК",
+      "ФИНГЕЙТ СЕКЮРИТИС ҮЦК ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "BBSS",
+    "name": "БИ БИ ЭС ЭС ХХК",
+    "name_variants": [
+      "BBSS",
+      "БИ БИ ЭС ЭС ХХК",
+      "Би Би Эс Эс",
+      "Би Би Эс Эс ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2018-11",
+    "months_active": 58
+  },
+  {
+    "code": "BDSC",
+    "name": "БИ ДИ СЕК ҮЦК ХК",
+    "name_variants": [
+      "BDSEC",
+      "БИ ДИ СЕК ҮЦК ХК",
+      "БИДИСЕК ҮЦК ХК",
+      "Би Ди Сек",
+      "БиДиСек ХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "BKHE",
+    "name": "БАГА ХЭЭР ХХК",
+    "name_variants": [
+      "BAGA KHEER",
+      "БАГА ХЭЭР ХХК",
+      "Бага Хээр",
+      "Бага хээр ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2018-12",
+    "months_active": 59
+  },
+  {
+    "code": "BKOC",
+    "name": "ЭС ЖИ ИНВЕСТМЕНТ ЭНД СЕКЬЮРИТИС ҮЦК ХХК",
+    "name_variants": [
+      "BKO CAPITAL",
+      "SG INVESTMENT AND SECURITIES",
+      "БКО КАПИТАЛ ҮЦК ХХК",
+      "ЭС ЖИ ИНВЕСТМЕНТ ЭНД СЕКЬЮРИТИС ҮЦК ХХК"
+    ],
+    "first_seen": "2022-03",
+    "last_seen": "2026-08",
+    "months_active": 54
+  },
+  {
+    "code": "BLAC",
+    "name": "МАЗААЛАЙ КАПИТАЛ ПАРТНЕРС ҮЦК ХХК",
+    "name_variants": [
+      "BLACKSTONE INTERNATIONAL",
+      "MAZAALAI CAPITAL PARTNERS",
+      "БЛЭКСТОУН ИНТЕРНЭЙШНЛ ҮЦК ХХК",
+      "Блэкстоун Интернэйшнл",
+      "Блэкстоун интернэйшнл ХХК",
+      "МАЗААЛАЙ КАПИТАЛ ПАРТНЕРС ҮЦК ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "BLMB",
+    "name": "БЛҮМСБЮРИ СЕКЮРИТИЕС ҮЦК ХХК",
+    "name_variants": [
+      "BLOOMSBURY SECURITIES",
+      "БЛҮМСБЮРИ СЕКЮРИТИЕС ҮЦК ХХК",
+      "Блүмсбюри Секьюритис",
+      "Блүмсбюри секюритиес ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2025-03",
+    "months_active": 134
+  },
+  {
+    "code": "BSK",
+    "name": "БЛЮСКАЙ СЕКЬЮРИТИЗ ҮЦК ХК",
+    "name_variants": [
+      "BLUE SKY",
+      "BLUESKY SECURITIES",
+      "БЛЮСКАЙ СЕКЬЮРИТИЗ ҮЦК ХК",
+      "Блюскай Секьюритиз",
+      "Блюскай секьюритиз ХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "BULG",
+    "name": "БУЛГАН БРОКЕР ҮЦК ХХК",
+    "name_variants": [
+      "BULGAN BROKER",
+      "БУЛГАН БРОКЕР ҮЦК ХХК",
+      "Булган Брокер",
+      "Булган брокер ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "BUMB",
+    "name": "БУМБАТ-АЛТАЙ ҮЦК ХХК",
+    "name_variants": [
+      "BUMBAT-ALTAI",
+      "БУМБАТ-АЛТАЙ ҮЦК ХХК",
+      "Бумбат Алтай",
+      "Бумбат-Алтай ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "BZIN",
+    "name": "МИРЭ ЭССЭТ СЕКЬЮРИТИС МОНГОЛ ҮЦК ХХК",
+    "name_variants": [
+      "MIRAE ASSET SECURITIES MONGOLIA",
+      "ДЭҮ СЕКЬЮРИТИС МОНГОЛ ҮЦК ХХК",
+      "Дэү Секьюритис Монгол",
+      "Дэү Секьюритис Монгол ХХК",
+      "Дэү секьюритиз Монгол",
+      "МИРЭ ЭССЭТ СЕКЬЮРИТИС МОНГОЛ ҮЦК ХХК"
+    ],
+    "first_seen": "2014-09",
+    "last_seen": "2026-08",
+    "months_active": 142
+  },
+  {
+    "code": "CAPM",
+    "name": "КАПИТАЛ МАРКЕТ КОРПОРАЦИ ҮЦК ХХК",
+    "name_variants": [
+      "CAPITAL MARKET CORPORATION",
+      "КАПИТАЛ МАРКЕТ КОРПОРАЦИ ҮЦК ХХК",
+      "Капитал маркет корпораци",
+      "Капитал маркет корпораци ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2020-12",
+    "months_active": 83
+  },
+  {
+    "code": "CTRL",
+    "name": "ЦЕНТРАЛ СЕКЬЮРИТИЙЗ ҮЦК ХХК",
+    "name_variants": [
+      "CENTRAL SECURITIES",
+      "ЦЕНТРАЛ СЕКЬЮРИТИЙЗ ҮЦК",
+      "ЦЕНТРАЛ СЕКЬЮРИТИЙЗ ҮЦК ХХК"
+    ],
+    "first_seen": "2018-11",
+    "last_seen": "2026-08",
+    "months_active": 94
+  },
+  {
+    "code": "DCF",
+    "name": "ДИ СИ ЭФ ҮЦК ХХК",
+    "name_variants": [
+      "DCF",
+      "ДИ СИ ЭФ ХХК",
+      "ДИ СИ ЭФ ҮЦК ХХК",
+      "Ди Си Эф",
+      "Ди Си Эф ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 148
+  },
+  {
+    "code": "DELG",
+    "name": "ДЭЛГЭРХАНГАЙ СЕКЮРИТИЗ ҮЦК ХХК",
+    "name_variants": [
+      "DELGERKHANGAI SECURITIES",
+      "DH CAPITAL",
+      "ДИ ЭЙЧ КАПИТАЛ ҮЦК ХХК",
+      "ДЭЛГЭРХАНГАЙ СЕКЮРИТИЗ ҮЦК ХХК",
+      "Дэлгэрхангай Секьюритиз",
+      "Дэлгэрхангай секюритиз ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "DGSN",
+    "name": "Догсон ХХК",
+    "name_variants": [
+      "DOGSON",
+      "ДОГСОН ХХК",
+      "Догсон",
+      "Догсон ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2018-12",
+    "months_active": 59
+  },
+  {
+    "code": "DOMI",
+    "name": "ДОМИКС СЕК ҮЦК ХХК",
+    "name_variants": [
+      "DOMIXSEC",
+      "ДОМИКС СЕК ҮЦК ХХК"
+    ],
+    "first_seen": "2019-10",
+    "last_seen": "2026-08",
+    "months_active": 83
+  },
+  {
+    "code": "DRBR",
+    "name": "ДАРХАН БРОКЕР ҮЦК ХХК",
+    "name_variants": [
+      "DARKHAN BROKER",
+      "ДАРХАН БРОКЕР ҮЦК ХХК",
+      "Дархан Брокер",
+      "Дархан брокер ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "DWMGL",
+    "name": "Дэү секьюритиз Монгол",
+    "name_variants": [
+      "Дэү секьюритиз Монгол"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-10",
+    "months_active": 9
+  },
+  {
+    "code": "ECM",
+    "name": "ЕВРАЗИА КАПИТАЛ ХОЛДИНГ ҮЦК ХК",
+    "name_variants": [
+      "EURASIA CAPITAL HOLDING",
+      "ЕВРАЗИА КАПИТАЛ ХОЛДИНГ ҮЦК ХК",
+      "Евразиа Капитал Холдинг",
+      "Евразиа капитал монголиа ХХК",
+      "Евразиа капитал холдинг ХК",
+      "Евроазиа Капитал Холдинг"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-02",
+    "months_active": 145
+  },
+  {
+    "code": "FCX",
+    "name": "ЭФ СИ ИКС ҮЦК ХХК",
+    "name_variants": [
+      "FCX",
+      "ЭФ СИ ИКС ҮЦК ХХК",
+      "Эф Си Икс",
+      "Эф Си Икс ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2023-03",
+    "months_active": 110
+  },
+  {
+    "code": "FINL",
+    "name": "Финанс линк групп ХХК",
+    "name_variants": [
+      "FINANCE LINK GROUP",
+      "ФИНАНС ЛИНК ГРУПП ХХК",
+      "Финанс Линк Групп",
+      "Финанс линк групп ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2018-12",
+    "months_active": 59
+  },
+  {
+    "code": "FRON",
+    "name": "ФРОНТИЕР ҮЦК ХХК",
+    "name_variants": [
+      "FRONTIER",
+      "ФРОНТИЕР ҮЦК ХХК",
+      "Фронтиер",
+      "Фронтиер ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2019-04",
+    "months_active": 63
+  },
+  {
+    "code": "GACB",
+    "name": "ГЭРЭЛТ АССЭЙМООР КАПИТАЛ ҮЦК ХХК",
+    "name_variants": [
+      "GERELT ASSEMOUR CAPITAL",
+      "ГЭРЭЛТ АССЭЙМООР КАПИТАЛ ҮЦК ХХК"
+    ],
+    "first_seen": "2022-09",
+    "last_seen": "2024-08",
+    "months_active": 24
+  },
+  {
+    "code": "GATR",
+    "name": "ГАЦУУРТ ТРЕЙД ҮЦК ХХК",
+    "name_variants": [
+      "GATSUURT TRADE",
+      "ГАЦУУРТ ТРЕЙД ҮЦК ХХК",
+      "Гацуурт Трейд",
+      "Гацуурт трейд ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "GAUL",
+    "name": "ГАҮЛИ ҮЦК ХХК",
+    "name_variants": [
+      "GAULI",
+      "ГАҮЛИ ҮЦК ХХК",
+      "Гаүли",
+      "Гаүли ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "GDEV",
+    "name": "ГРАНДДЕВЕЛОПМЕНТ ҮЦК ХХК",
+    "name_variants": [
+      "GRANDDEVELOPMENT",
+      "ГРАНДДЕВЕЛОПМЕНТ ҮЦК ХХК",
+      "Гранддевелопмент",
+      "Гранддевелопмент ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "GDSC",
+    "name": "ГҮҮДСЕК ҮЦК ХХК",
+    "name_variants": [
+      "GOODSEC",
+      "ГҮҮДСЕК ҮЦК ХХК",
+      "Гүүдсек",
+      "Гүүдсек ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "GLMT",
+    "name": "ГОЛОМТ СЕКЮРИТИЗ ҮЦК ХХК",
+    "name_variants": [
+      "GOLOMT CAPITAL",
+      "ГОЛОМТ КАПИТАЛ ҮЦК ХХК",
+      "ГОЛОМТ СЕКЮРИТИЗ ҮЦК ХХК",
+      "Голомт Секюритиз",
+      "Голомт секюритиз ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "GLOB",
+    "name": "Глобал ассет ХХК",
+    "name_variants": [
+      "ГЛОБАЛ АССЕТ ХХК",
+      "Глобал Ассет",
+      "Глобал ассет ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2015-08",
+    "months_active": 20
+  },
+  {
+    "code": "GNDX",
+    "name": "ГЕНДЕКС ҮЦК ХХК",
+    "name_variants": [
+      "GENDEX",
+      "ГЕНДЕКС ҮЦК ХХК",
+      "Гендекс",
+      "Гендекс ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2022-12",
+    "months_active": 107
+  },
+  {
+    "code": "GNN",
+    "name": "ГОВИЙН НОЁН НУРУУ ХХК",
+    "name_variants": [
+      "GOVIIN NOYON NURUU",
+      "ГОВИЙН НОЁН НУРУУ",
+      "ГОВИЙН НОЁН НУРУУ ХХК",
+      "Говийн ноён нуруу",
+      "Говийн ноён нуруу ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2018-11",
+    "months_active": 58
+  },
+  {
+    "code": "GRLN",
+    "name": "Грандлайн",
+    "name_variants": [
+      "Грандлайн"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-11",
+    "months_active": 10
+  },
+  {
+    "code": "GSEC",
+    "name": "Грийт секьюритис ХХК",
+    "name_variants": [
+      "Грийт Секьюритис",
+      "Грийт секьюритис ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-11",
+    "months_active": 11
+  },
+  {
+    "code": "HUN",
+    "name": "ХҮННҮ ЭМПАЙР ҮЦК ХХК",
+    "name_variants": [
+      "HUNNU EMPIRE",
+      "ХҮННҮ ЭМПАЙР ҮЦК ХХК",
+      "Хүннү Эмпайр",
+      "Хүннү Эмпайр ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "INVC",
+    "name": "ИНВЕСКОР КАПИТАЛ ҮЦК ХХК",
+    "name_variants": [
+      "INVESCORE CAPITAL",
+      "ИНВЕСКОР КАПИТАЛ ҮЦК",
+      "ИНВЕСКОР КАПИТАЛ ҮЦК ХХК"
+    ],
+    "first_seen": "2018-11",
+    "last_seen": "2026-08",
+    "months_active": 94
+  },
+  {
+    "code": "ITR",
+    "name": "АЙ ТРЕЙД ХХК",
+    "name_variants": [
+      "I TRADE",
+      "АЙ ТРЕЙД ХХК",
+      "Ай Трейд",
+      "Ай трейд ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2018-12",
+    "months_active": 59
+  },
+  {
+    "code": "LACM",
+    "name": "Лондон Азиа Капитал Монголиа",
+    "name_variants": [
+      "Лондон Азиа Капитал Монголиа"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-06",
+    "months_active": 6
+  },
+  {
+    "code": "LFTI",
+    "name": "ЛАЙФТАЙМ ИНВЕСТМЕНТ ҮЦК ХХК",
+    "name_variants": [
+      "LIFETIME INVESTMENT",
+      "ЛАЙФТАЙМ ИНВЕСТМЕНТ ҮЦК ХХК",
+      "Лайфтайм Инвестмент",
+      "Лайфтайм инвестмент ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "MERG",
+    "name": "МЭРГЭН САНАА ҮЦК ХХК",
+    "name_variants": [
+      "MERGEN SANAA",
+      "МЭРГЭН САНАА ҮЦК ХХК",
+      "Мэргэн Санаа",
+      "Мэргэн санаа ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "MIBG",
+    "name": "МАНДАЛ КАПИТАЛ МАРКЕТС ҮЦК ХХК",
+    "name_variants": [
+      "MANDAL CAPITAL MARKETS",
+      "MIBG",
+      "МАНДАЛ КАПИТАЛ МАРКЕТС ҮЦК ХХК",
+      "ЭМ АЙ БИ ЖИ ХХК ҮЦК",
+      "Эм Ай Би Жи",
+      "Эм Ай Би Жи ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "MICC",
+    "name": "ЭМ АЙ СИ СИ  ҮЦК ХХК",
+    "name_variants": [
+      "MICC",
+      "ЭМ АЙ СИ СИ  ҮЦК ХХК",
+      "Эм Ай Си Си",
+      "Эм Ай Си Си ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "MNET",
+    "name": "АРД СЕКЬЮРИТИЗ ҮЦК ХХК",
+    "name_variants": [
+      "ARD SECURITIES",
+      "АРД СЕКЬЮРИТИЗ ҮЦК ХХК",
+      "Ард секьюритиз ХХК",
+      "Монет ХХК",
+      "Монет капитал",
+      "Монет капитал ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "MNKH",
+    "name": "Монхан Трейд",
+    "name_variants": [
+      "Монхан Трейд"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-06",
+    "months_active": 6
+  },
+  {
+    "code": "MOHU",
+    "name": "МОНГОЛ ХУВЬЦАА ҮЦК ХХК",
+    "name_variants": [
+      "MОНГОЛ ХУВЬЦАА ХХК",
+      "МОНГОЛ ХУВЬЦАА ҮЦК ХХК"
+    ],
+    "first_seen": "2020-02",
+    "last_seen": "2025-05",
+    "months_active": 41
+  },
+  {
+    "code": "MONG",
+    "name": "МОНГОЛ СЕКЮРИТИЕС ҮЦК ХК",
+    "name_variants": [
+      "MONGOL SECURITIES",
+      "МОНГОЛ СЕКЮРИТИЕС ҮЦК ХК",
+      "Монгол Секьюритес",
+      "Монгол Секьюритиес",
+      "Монгол секюритиес ХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "MONH",
+    "name": "MОНГОЛ ХУВЬЦАА ХХК",
+    "name_variants": [
+      "MОНГОЛ ХУВЬЦАА ХХК"
+    ],
+    "first_seen": "2019-11",
+    "last_seen": "2020-01",
+    "months_active": 3
+  },
+  {
+    "code": "MSDQ",
+    "name": "МАСДАК ҮНЭТ ЦААСНЫ КОМПАНИ ХХК",
+    "name_variants": [
+      "MASDAQ",
+      "МАСДАК ҮНЭТ ЦААСНЫ КОМПАНИ ХХК",
+      "Масдак",
+      "Масдак ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "MSEC",
+    "name": "МОНСЕК ҮЦК ХХК",
+    "name_variants": [
+      "MONSEC",
+      "МОНСЕК ҮЦК ХХК",
+      "Монсек",
+      "Монсек ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "MSSC",
+    "name": "М СЕКЬЮРИТИС ҮЦК",
+    "name_variants": [
+      "M SECURITIES",
+      "М СЕКЬЮРИТИС ҮЦК"
+    ],
+    "first_seen": "2025-04",
+    "last_seen": "2026-08",
+    "months_active": 17
+  },
+  {
+    "code": "MWTS",
+    "name": "ЭМ ДАБЛЬЮ ТИ ЭС ҮЦК ХХК",
+    "name_variants": [
+      "MWTS",
+      "ЭМ ДАБЛЬЮ ТИ ЭС ҮЦК ХХК",
+      "Эм Даблью Ти Эс",
+      "Эм Даблью Ти Эс ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2018-12",
+    "months_active": 59
+  },
+  {
+    "code": "NICI",
+    "name": "Ники",
+    "name_variants": [
+      "Ники"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-06",
+    "months_active": 6
+  },
+  {
+    "code": "NOVL",
+    "name": "НОВЕЛ ИНВЕСТМЕНТ ҮЦК ХХК",
+    "name_variants": [
+      "NOVEL INVESTMENT",
+      "НОВЕЛ ИНВЕСТМЕНТ ХХК",
+      "НОВЕЛ ИНВЕСТМЕНТ ҮЦК ХХК",
+      "Новел Инвестмент",
+      "Новел инвестмент ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "NSEC",
+    "name": "НЭЙШНЛ СЕКЮРИТИС ҮЦК ХХК",
+    "name_variants": [
+      "NATIONAL SECURITIES",
+      "НЭЙШНЛ СЕКЮРИТИС ҮЦК ХХК",
+      "Нэйшнл Секюритис",
+      "Нэйшнл секюритис ХХК",
+      "Нэйшнл сэкюритис ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "OERD",
+    "name": "Очир-Эрдэнэ инвест ХХК",
+    "name_variants": [
+      "Очир-Эрдэнэ Инвест",
+      "Очир-Эрдэнэ инвест ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-11",
+    "months_active": 10
+  },
+  {
+    "code": "OGTR",
+    "name": "Мөнх огторгуй ХХК",
+    "name_variants": [
+      "Мөнх Огторгуй",
+      "Мөнх огторгуй ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-11",
+    "months_active": 10
+  },
+  {
+    "code": "PREV",
+    "name": "Превалент ХХК",
+    "name_variants": [
+      "PREVALENT",
+      "ПРЕВАЛЕНТ ХХК",
+      "Превалент",
+      "Превалент ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2018-12",
+    "months_active": 59
+  },
+  {
+    "code": "RESC",
+    "name": "Рескап Секьюритис",
+    "name_variants": [
+      "Рескап Секьюритис"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-06",
+    "months_active": 6
+  },
+  {
+    "code": "RISM",
+    "name": "РАЙНОС ИНВЕСТМЕНТ ҮЦК ХХК",
+    "name_variants": [
+      "RHINOS INVESTMENT",
+      "РАЙНОС ИНВЕСТМЕНТ ҮЦК ХХК"
+    ],
+    "first_seen": "2020-02",
+    "last_seen": "2026-08",
+    "months_active": 79
+  },
+  {
+    "code": "SAN",
+    "name": "Санхүүгийн хөгжил Инвест",
+    "name_variants": [
+      "Санхүүгийн хөгжил Инвест"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-06",
+    "months_active": 6
+  },
+  {
+    "code": "SANR",
+    "name": "САНАР ҮЦК ХХК",
+    "name_variants": [
+      "SANAR",
+      "САНАР ҮЦК ХХК",
+      "Санар",
+      "Санар ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "SECP",
+    "name": "СИКАП  ҮЦК ХХК",
+    "name_variants": [
+      "SECAP",
+      "СИКАП",
+      "СИКАП  ҮЦК ХХК",
+      "Сикап",
+      "Сикап ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "SGC",
+    "name": "ЭС ЖИ КАПИТАЛ ҮЦК ХХК",
+    "name_variants": [
+      "SG CAPITAL",
+      "ЭС ЖИ КАПИТАЛ ҮЦК ХХК",
+      "Эс Жи Капитал",
+      "Эс Жи Капитал ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "SILS",
+    "name": "СИЛВЭР ЛАЙТ СЕКЮРИТИЙЗ ҮЦК ХХК",
+    "name_variants": [
+      "SILVER LIGHT SECURITIES",
+      "СИЛВЭР ЛАЙТ СЕКЮРИТИЗ ҮЦК ХХК",
+      "СИЛВЭР ЛАЙТ СЕКЮРИТИЙЗ ҮЦК ХХК"
+    ],
+    "first_seen": "2018-05",
+    "last_seen": "2026-08",
+    "months_active": 100
+  },
+  {
+    "code": "SKCA",
+    "name": "Скайхан капитал ХХК",
+    "name_variants": [
+      "Скайхан Капитал",
+      "Скайхан капитал ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-11",
+    "months_active": 10
+  },
+  {
+    "code": "SOYO",
+    "name": "Соёмбо инвестмент корпораци ХХК",
+    "name_variants": [
+      "Соёмбо Инвестмент Корпораци",
+      "Соёмбо инвестмент корпораци ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-11",
+    "months_active": 10
+  },
+  {
+    "code": "STIN",
+    "name": "СТАНДАРТ ИНВЕСТМЕНТ ҮЦК ХХК",
+    "name_variants": [
+      "STANDART INVESTMENT",
+      "СТАНДАРТ ИНВЕСТМЕНТ ҮЦК ХХК",
+      "Стандарт Инвестмент",
+      "Стандарт инвестмент ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "STOK",
+    "name": "СТОКЛАБ СЕКЬЮРИТИЗ ҮЦК ХХК",
+    "name_variants": [
+      "STOCKLAB SECURITIES",
+      "СТОКЛАБ СЕКЬЮРИТИЗ ҮЦК ХХК"
+    ],
+    "first_seen": "2021-11",
+    "last_seen": "2026-08",
+    "months_active": 58
+  },
+  {
+    "code": "TABO",
+    "name": "ТАВАН БОГД ҮЦК ХХК",
+    "name_variants": [
+      "TAVAN BOGD",
+      "ТАВАН БОГД ҮЦК ХХК",
+      "Таван Богд",
+      "Таван богд ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "TCHB",
+    "name": "ТУЛГАТ ЧАНДМАНЬ БАЯН  ҮЦК ХХК",
+    "name_variants": [
+      "TULGAT CHANDMANI BAYAN",
+      "ТУЛГАТ ЧАНДМАНЬ БАЯН  ҮЦК ХХК",
+      "Тулгат Чандмань Баян",
+      "Тулгат чандмань баян ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "TDB",
+    "name": "ТИ ДИ БИ СЕКЬЮРИТИЗ ҮЦК ХХК",
+    "name_variants": [
+      "TDB CAPITAL",
+      "TDB SECURITIES",
+      "ТИ ДИ БИ КАПИТАЛ ҮЦК ХХК",
+      "ТИ ДИ БИ СЕКЬЮРИТИЗ ҮЦК ХХК",
+      "Ти Ди Би Капитал",
+      "Ти Ди Би Капитал ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "TEND",
+    "name": "Тэнь Ди Сек",
+    "name_variants": [
+      "Тэнь Ди Сек"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-06",
+    "months_active": 6
+  },
+  {
+    "code": "TENG",
+    "name": "Тэнгри Секуритиес",
+    "name_variants": [
+      "Тэнгри Секуритиес"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-06",
+    "months_active": 6
+  },
+  {
+    "code": "TNGR",
+    "name": "ТЭНГЭР КАПИТАЛ  ҮЦК ХХК",
+    "name_variants": [
+      "TENGER CAPITAL",
+      "ТЭНГЭР КАПИТАЛ  ҮЦК ХХК",
+      "Тэнгэр Капитал",
+      "Тэнгэр капитал ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "TTOL",
+    "name": "ТЭСО ИНВЕСТМЕНТ ҮЦК ХХК",
+    "name_variants": [
+      "APEX CAPITAL",
+      "TESO INVESTMENT",
+      "АПЕКС КАПИТАЛ ҮЦК ХХК",
+      "ТАВАНТОЛГОЙ ХИШИГ ХХК",
+      "ТЭСО ИНВЕСТМЕНТ ҮЦК ХХК",
+      "Таван Толгойн Хишиг",
+      "Тавантолгой хишиг",
+      "Тавантолгой хишиг ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "TTR",
+    "name": "ТҮШИГ ТРАСТ  ҮЦК ХХК",
+    "name_variants": [
+      "ТҮШИГ ТРАСТ  ҮЦК ХХК",
+      "Түшиг Траст",
+      "Түшиг траст ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2015-08",
+    "months_active": 20
+  },
+  {
+    "code": "TUIN",
+    "name": "Туушин инвест ХХК",
+    "name_variants": [
+      "Туушин Инвест",
+      "Туушин инвест ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-11",
+    "months_active": 10
+  },
+  {
+    "code": "UBBD",
+    "name": "Юу Би Би Ди ХХК",
+    "name_variants": [
+      "Юу Би Би Ди",
+      "Юу Би Би Ди ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-11",
+    "months_active": 11
+  },
+  {
+    "code": "UGS",
+    "name": "Юу Жи Эс",
+    "name_variants": [
+      "Юу Жи Эс"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-06",
+    "months_active": 6
+  },
+  {
+    "code": "UNDR",
+    "name": "ӨНДӨРХААН ИНВЕСТ ҮЦК ХХК",
+    "name_variants": [
+      "UNDURKHAAN INVEST",
+      "ӨНДӨРХААН ИНВЕСТ ҮЦК ХХК",
+      "Өндөрхаан Инвест",
+      "Өндөрхаан инвест ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "UNET",
+    "name": "ҮНЭТ СЕКЬЮРИТИС ҮЦК ХХК",
+    "name_variants": [
+      "UNET SECURITIES",
+      "ҮНЭТ СЕКЬЮРИТИС ҮЦК ХХК"
+    ],
+    "first_seen": "2024-09",
+    "last_seen": "2026-08",
+    "months_active": 24
+  },
+  {
+    "code": "USEC",
+    "name": "Юнайтэд секьюритс ХХК",
+    "name_variants": [
+      "ЮНАЙТЭД СЕКЬЮРИТС ХХК",
+      "Юнайтед Секьюритс",
+      "Юнайтед секьюритс ХХК",
+      "Юнайтэд секьюритс ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2015-08",
+    "months_active": 20
+  },
+  {
+    "code": "VTCM",
+    "name": "ВАНТЭЙЖ КАПИТАЛ ҮЦК ХХК",
+    "name_variants": [
+      "VANTAGE CAPITAL",
+      "ВАНТЭЙЖ КАПИТАЛ ҮЦК ХХК"
+    ],
+    "first_seen": "2025-08",
+    "last_seen": "2026-08",
+    "months_active": 12
+  },
+  {
+    "code": "VTCT",
+    "name": "ВАНТЭЙЖ КАПИТАЛ ҮЦК ХХК",
+    "name_variants": [
+      "ВАНТЭЙЖ КАПИТАЛ ҮЦК ХХК"
+    ],
+    "first_seen": "2025-10",
+    "last_seen": "2025-10",
+    "months_active": 1
+  },
+  {
+    "code": "ZEUS",
+    "name": "Зюс капитал ХХК",
+    "name_variants": [
+      "ZUES CAPITAL",
+      "ЗЮС КАПИТАЛ ХХК",
+      "Зюс капитал",
+      "Зюс капитал ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2018-12",
+    "months_active": 59
+  },
+  {
+    "code": "ZGB",
+    "name": "ТАВАНБОГД КАПИТАЛ ҮЦК ХХК",
+    "name_variants": [
+      "TAVAN BOGD CAPITAL",
+      "ZGB",
+      "ЗЭТ ЖИ БИ ҮЦК ХХК",
+      "Зэт Жи Би",
+      "Зэт жи би ХХК",
+      "ТАВАНБОГД КАПИТАЛ ҮЦК ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  },
+  {
+    "code": "ZGSC",
+    "name": "Зууны гарц секьюритис ХХК",
+    "name_variants": [
+      "Зууны гарц Секьюритис",
+      "Зууны гарц секьюритис ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2014-11",
+    "months_active": 11
+  },
+  {
+    "code": "ZRGD",
+    "name": "НЭТСЭК ҮЦК ХХК",
+    "name_variants": [
+      "NETSEC",
+      "ZERGED",
+      "ЗЭРГЭД ҮЦК ХХК",
+      "Зэргэд",
+      "Зэргэд ХХК",
+      "НЭТСЭК ҮЦК ХХК"
+    ],
+    "first_seen": "2014-01",
+    "last_seen": "2026-08",
+    "months_active": 151
+  }
+]
