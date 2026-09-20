@@ -10,8 +10,8 @@ export interface ChartSpec {
   id: string;
   title: string;
   description?: string;
-  /** Full ApexCharts options object. Build it in `charts.ts`. */
-  options: ApexOptions;
+  /** Full ApexCharts options object. Required unless `customBody` is set. */
+  options?: ApexOptions;
   /** Optional fixed height, defaults to 350 */
   height?: number;
   /**
@@ -23,6 +23,13 @@ export interface ChartSpec {
   controls?: string;
   /** Called after the chart renders — wire `controls` events here. */
   onMounted?: (card: HTMLElement, chart: ApexCharts) => void;
+  /**
+   * Custom non-chart body (directory, tables…). Rendered INSTEAD of a chart.
+   * Pair with `onCustomMounted` for interactivity.
+   */
+  customBody?: string;
+  /** Called after a `customBody` renders. */
+  onCustomMounted?: (card: HTMLElement) => void;
 }
 
 export interface CaseMeta {

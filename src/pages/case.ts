@@ -47,11 +47,13 @@ export async function renderCaseDetail(
           g.charts
             .map(
               (c) => `
-        <article class="chart-card" data-tabpanel="${gi}"${gi !== activeTab ? ' hidden' : ''}>
+        <article class="chart-card" data-spec="${c.id}" data-tabpanel="${gi}"${gi !== activeTab ? ' hidden' : ''}>
           <h2>${c.title}</h2>
           ${c.description ? `<p class="chart-desc">${c.description}</p>` : ''}
-          ${c.controls ? `<div class="chart-controls">${c.controls}</div>` : ''}
-          <div id="chart-${meta.slug}-${c.id}" class="chart"></div>
+          ${c.customBody
+            ? `<div class="custom-body">${c.customBody}</div>`
+            : `${c.controls ? `<div class="chart-controls">${c.controls}</div>` : ''}
+               <div id="chart-${meta.slug}-${c.id}" class="chart"></div>`}
         </article>`,
             )
             .join(''),
@@ -82,19 +84,24 @@ export async function renderCaseDetail(
   const instances: ApexChartsType[] = [];
   groups.forEach((g) => {
     for (const c of g.charts) {
-      const node = document.querySelector(`#chart-${meta.slug}-${c.id}`);
+      const card = el.querySelector<HTMLElement>(`[data-spec="${c.id}"]`);
+      if (!card) continue;
+      if (c.customBody) {
+        if (c.onCustomMounted) c.onCustomMounted(card);
+        continue;
+      }
+      const node = card.querySelector(`#chart-${meta.slug}-${c.id}`);
       if (!node) continue;
       const chart = new ApexCharts(node, {
-        ...c.options,
-        chart: { foreColor: '#c9cfe6', height: c.height ?? 350, ...c.options.chart },
+        ...(c.options ?? {}),
+        chart: { foreColor: '#c9cfe6', height: c.height ?? 350, ...(c.options?.chart ?? {}) },
         // Cards are dark: light axis/legend text, dark tooltip, visible grid.
-        tooltip: { theme: 'dark', ...(c.options.tooltip ?? {}) },
-        grid: { borderColor: '#2b3252', ...(c.options.grid ?? {}) },
+        tooltip: { theme: 'dark', ...(c.options?.tooltip ?? {}) },
+        grid: { borderColor: '#2b3252', ...(c.options?.grid ?? {}) },
       });
       chart.render();
       instances.push(chart);
-      const card = node.closest('article');
-      if (card && c.onMounted) c.onMounted(card as HTMLElement, chart);
+      if (c.onMounted) c.onMounted(card, chart);
     }
   });
 

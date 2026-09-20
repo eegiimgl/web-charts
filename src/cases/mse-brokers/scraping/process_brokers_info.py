@@ -22,6 +22,7 @@ from pathlib import Path
 
 SCRAPING_DIR = Path(__file__).resolve().parent
 RAW_DETAILS = SCRAPING_DIR.parent / "data" / "raw" / "brokers-info" / "details.json"
+RAW_LISTING = SCRAPING_DIR.parent / "data" / "raw" / "brokers-info" / "brokers.json"
 PROCESSED_DIR = SCRAPING_DIR.parent / "data" / "processed"
 
 # (category, mongolian label, keywords matched against the lowercased title)
@@ -53,6 +54,10 @@ def categorize(title: str) -> str:
 def main() -> int:
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
     details = json.loads(RAW_DETAILS.read_text(encoding="utf-8"))
+    listing = {
+        b["symbol"]: b
+        for b in json.loads(RAW_LISTING.read_text(encoding="utf-8"))
+    }
 
     counts: Counter[str] = Counter()
     first_seen: dict[str, str] = {}
@@ -130,6 +135,45 @@ def main() -> int:
     for p in positions:
         if p["category"] == "other":
             print(f"  {p['count']:3d}  {p['position']}")
+
+    # Broker profiles: listing + contact + staff + ownership + board, by symbol.
+    matrix_by_symbol = {r["symbol"]: r for r in matrix}
+    profiles = []
+    for code, b in sorted(details.items(), key=lambda kv: kv[1]["symbol"]):
+        lst = listing.get(b["symbol"], {})
+        info = b.get("info", {}) if isinstance(b.get("info"), dict) else {}
+        staff = matrix_by_symbol.get(b["symbol"], {})
+        profiles.append(
+            {
+                "symbol": b["symbol"],
+                "code": int(code) if str(code).isdigit() else code,
+                "name": b.get("brokerName", ""),
+                "logo": lst.get("logo"),
+                "activities": lst.get("activities", {}),
+                "contact": {
+                    "address": info.get("address") or None,
+                    "phone": str(info.get("phone") or "") or None,
+                    "email": info.get("email") or None,
+                    "website": info.get("website") or None,
+                    "timetable": info.get("timetable") or None,
+                },
+                "staff_total": staff.get("total", 0),
+                "staff_by_category": {
+                    cat: staff.get(cat, 0) for cat in columns if staff.get(cat, 0)
+                },
+                "employees": [
+                    {"fullName": e.get("fullName", ""), "position": e.get("position", "")}
+                    for e in b.get("employees", [])
+                ],
+                "shareholders_individual": b.get("shareholders_individual", []),
+                "shareholders_org": b.get("shareholders_org", []),
+                "board": b.get("board", []),
+            }
+        )
+    (PROCESSED_DIR / "broker_profiles.json").write_text(
+        json.dumps(profiles, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+    print(f"profiles: {len(profiles)} brokers")
     return 0
 
 
