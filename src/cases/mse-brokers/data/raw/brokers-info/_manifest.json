@@ -1,0 +1,13 @@
+{
+  "scraped_at": "2026-09-20T15:51:40.108045+00:00",
+  "listing_source": "https://new.mse.mn/brokers-info",
+  "details_source": "https://mse.mn/brokers-info/<code>",
+  "brokers": 51,
+  "with_details": 51,
+  "with_logo": 16,
+  "total_employees": 572,
+  "total_holders_individual": 96,
+  "total_holders_org": 42,
+  "total_board": 101,
+  "failed_codes": []
+}

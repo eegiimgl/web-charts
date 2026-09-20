@@ -1,7 +1,11 @@
 import type ApexChartsType from 'apexcharts';
 import type { UseCase } from '../cases/types';
 
-export async function renderCaseDetail(el: HTMLElement, useCase: UseCase): Promise<void> {
+export async function renderCaseDetail(
+  el: HTMLElement,
+  useCase: UseCase,
+  initialTab = 0,
+): Promise<void> {
   const { meta, charts, dataTable } = useCase;
 
   // Group charts into tabs by `tab` label (appearance order). No tab bar for one group.
@@ -11,6 +15,8 @@ export async function renderCaseDetail(el: HTMLElement, useCase: UseCase): Promi
     const g = groups.find((g) => g.label === label) ?? groups[groups.push({ label, charts: [] }) - 1];
     g.charts.push(c);
   }
+  // Deep-linkable tab: #/c/:slug/t/:n (clamped).
+  const activeTab = initialTab >= 0 && initialTab < groups.length ? initialTab : 0;
 
   el.innerHTML = `
     <a class="back" href="#/">← Бүх кейс</a>
@@ -32,7 +38,7 @@ export async function renderCaseDetail(el: HTMLElement, useCase: UseCase): Promi
         ? `<div class="tabs" role="tablist">${groups
             .map(
               (g, i) =>
-                `<button class="tab-btn${i === 0 ? ' active' : ''}" data-tab="${i}" role="tab">${g.label}</button>`,
+                `<button class="tab-btn${i === activeTab ? ' active' : ''}" data-tab="${i}" role="tab">${g.label}</button>`,
             )
             .join('')}</div>`
         : ''}
@@ -41,7 +47,7 @@ export async function renderCaseDetail(el: HTMLElement, useCase: UseCase): Promi
           g.charts
             .map(
               (c) => `
-        <article class="chart-card" data-tabpanel="${gi}"${gi > 0 ? ' hidden' : ''}>
+        <article class="chart-card" data-tabpanel="${gi}"${gi !== activeTab ? ' hidden' : ''}>
           <h2>${c.title}</h2>
           ${c.description ? `<p class="chart-desc">${c.description}</p>` : ''}
           ${c.controls ? `<div class="chart-controls">${c.controls}</div>` : ''}
@@ -103,6 +109,8 @@ export async function renderCaseDetail(el: HTMLElement, useCase: UseCase): Promi
       el.querySelectorAll<HTMLElement>('.chart-card').forEach((card) => {
         card.hidden = card.dataset.tabpanel !== String(idx);
       });
+      // Shareable URL without a full re-route (replaceState skips hashchange).
+      history.replaceState(null, '', `#/c/${meta.slug}/t/${idx}`);
       requestAnimationFrame(() => window.dispatchEvent(new Event('resize')));
     });
   });

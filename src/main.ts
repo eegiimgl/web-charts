@@ -30,7 +30,7 @@ function shell(inner: string): string {
 
 async function route(): Promise<void> {
   const hash = window.location.hash || '#/';
-  const match = hash.match(/^#\/c\/([\w-]+)/);
+  const match = hash.match(/^#\/c\/([\w-]+)(?:\/t\/(\d+))?/);
 
   if (match) {
     const entry = getCase(match[1]);
@@ -47,7 +47,7 @@ async function route(): Promise<void> {
     const page = document.getElementById('page')!;
     page.innerHTML = `<section class="empty"><p>Графикууд ачааллаж байна…</p></section>`;
     try {
-      renderCaseDetail(page, await entry.load());
+      renderCaseDetail(page, await entry.load(), Number(match[2] ?? 0));
     } catch (err) {
       console.error(err);
       page.innerHTML = `<section class="empty">

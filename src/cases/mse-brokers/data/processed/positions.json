@@ -1,0 +1,1400 @@
+[
+  {
+    "position": "Брокер",
+    "count": 81,
+    "category": "broker",
+    "example_broker": "ALTN"
+  },
+  {
+    "position": "Гүйцэтгэх захирал",
+    "count": 37,
+    "category": "executive",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Нягтлан бодогч",
+    "count": 22,
+    "category": "finance",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Дилер",
+    "count": 18,
+    "category": "broker",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Дотоод хяналтын ажилтан",
+    "count": 18,
+    "category": "compliance",
+    "example_broker": "BSK"
+  },
+  {
+    "position": "Шинжээч",
+    "count": 17,
+    "category": "analyst",
+    "example_broker": "BSK"
+  },
+  {
+    "position": "Дэд захирал",
+    "count": 10,
+    "category": "executive",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Хөрөнгө оруулалтын шинжээч",
+    "count": 8,
+    "category": "analyst",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Хөрөнгө оруулалтын мэргэжилтэн",
+    "count": 8,
+    "category": "advisor",
+    "example_broker": "BLAC"
+  },
+  {
+    "position": "Арилжааны брокер",
+    "count": 7,
+    "category": "broker",
+    "example_broker": "ARGB"
+  },
+  {
+    "position": "Захирал",
+    "count": 7,
+    "category": "executive",
+    "example_broker": "BULG"
+  },
+  {
+    "position": "Ахлах брокер",
+    "count": 7,
+    "category": "broker",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Хуулийн зөвлөх",
+    "count": 6,
+    "category": "compliance",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Хөрөнгө оруулалтын зөвлөх",
+    "count": 6,
+    "category": "advisor",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Санхүүгийн шинжээч",
+    "count": 5,
+    "category": "analyst",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Харилцагчийн албаны мэргэжилтэн",
+    "count": 5,
+    "category": "client_service",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Мэдээллийн ажилтан",
+    "count": 5,
+    "category": "client_service",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Гадаад арилжааны брокер",
+    "count": 4,
+    "category": "broker",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "График дизайнер",
+    "count": 4,
+    "category": "marketing",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Ерөнхий нягтлан бодогч",
+    "count": 4,
+    "category": "finance",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Зөвлөх",
+    "count": 4,
+    "category": "advisor",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "IT албаны мэргэжилтэн",
+    "count": 4,
+    "category": "it",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Дотоод хяналт",
+    "count": 4,
+    "category": "compliance",
+    "example_broker": "BSK"
+  },
+  {
+    "position": "Номинал данс хариуцсан ажилтан",
+    "count": 4,
+    "category": "operations",
+    "example_broker": "NOVL"
+  },
+  {
+    "position": "Analyst",
+    "count": 4,
+    "category": "analyst",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "Андеррайтер",
+    "count": 4,
+    "category": "underwriter",
+    "example_broker": "TNGR"
+  },
+  {
+    "position": "Уул уурхайн брокер",
+    "count": 3,
+    "category": "broker",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Тооцооны нягтлан бодогч",
+    "count": 3,
+    "category": "finance",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Хүний нөөцийн менежер",
+    "count": 3,
+    "category": "hr",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "БРОКЕР",
+    "count": 3,
+    "category": "broker",
+    "example_broker": "BUMB"
+  },
+  {
+    "position": "Улаанбаатар салбар брокер",
+    "count": 3,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Номинал дансны ажилтан",
+    "count": 3,
+    "category": "operations",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Хөрөнгө оруулалт хариуцсан захирал",
+    "count": 3,
+    "category": "executive",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Дархан салбар брокер",
+    "count": 3,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Оффис менежер",
+    "count": 3,
+    "category": "admin",
+    "example_broker": "DCF"
+  },
+  {
+    "position": "Судалгааны ажилтан",
+    "count": 3,
+    "category": "analyst",
+    "example_broker": "MIBG"
+  },
+  {
+    "position": "Маркетингийн менежер",
+    "count": 3,
+    "category": "marketing",
+    "example_broker": "MIBG"
+  },
+  {
+    "position": "Үйл ажиллагаа хариуцсан захирал",
+    "count": 3,
+    "category": "executive",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "Хөрөнгө оруулалтын менежер",
+    "count": 3,
+    "category": "advisor",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Номиналь данс хариуцсан мэргэжилтэн",
+    "count": 2,
+    "category": "operations",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Дотоод арилжааны брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Маркетингийн мэргэжилтэн",
+    "count": 2,
+    "category": "marketing",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Комплаенс хариуцсан мэргэжилтэн",
+    "count": 2,
+    "category": "compliance",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Хөрөнгө Оруулалтын албаны мэргэжилтэн",
+    "count": 2,
+    "category": "advisor",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Институционал харилцагчийн албаны мэргэжилтэн",
+    "count": 2,
+    "category": "client_service",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Хуульч",
+    "count": 2,
+    "category": "compliance",
+    "example_broker": "BSK"
+  },
+  {
+    "position": "төслийн мэргэжилтэн",
+    "count": 2,
+    "category": "other",
+    "example_broker": "BUMB"
+  },
+  {
+    "position": "Номинал данс хариуцсан мэргэжилтэн",
+    "count": 2,
+    "category": "operations",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Арилжааны хэлтсийн захирал",
+    "count": 2,
+    "category": "executive",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Дотоод номинал данс хариуцсан брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Зах зээлийн шинжээч",
+    "count": 2,
+    "category": "analyst",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Ахлах шинжээч",
+    "count": 2,
+    "category": "analyst",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Архангай салбар брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Өвөрхангай салбар брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Баянхонгор салбар брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Говь-Алтай салбар брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Дундговь салбар брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Завхан салбар брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Хөвсгөл салбар брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Дотоод хяналтын мэргэжилтэн",
+    "count": 2,
+    "category": "compliance",
+    "example_broker": "DCF"
+  },
+  {
+    "position": "Дизайнер",
+    "count": 2,
+    "category": "marketing",
+    "example_broker": "MIBG"
+  },
+  {
+    "position": "Комплаенсын ажилтан",
+    "count": 2,
+    "category": "compliance",
+    "example_broker": "NOVL"
+  },
+  {
+    "position": "дилер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "Хөрөнгө оруулалт, мэдээлэл хариуцсан  менежер",
+    "count": 2,
+    "category": "advisor",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "Комплайнс",
+    "count": 2,
+    "category": "compliance",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "Аналист",
+    "count": 2,
+    "category": "analyst",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "дотоод хяналт",
+    "count": 2,
+    "category": "compliance",
+    "example_broker": "UNDR"
+  },
+  {
+    "position": "Дотоод аудит",
+    "count": 2,
+    "category": "compliance",
+    "example_broker": "STIN"
+  },
+  {
+    "position": "Дотоод брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "ZGB"
+  },
+  {
+    "position": "Программ хөгжүүлэгч",
+    "count": 2,
+    "category": "it",
+    "example_broker": "TDB"
+  },
+  {
+    "position": "Номинал данс хариуцсан брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "TNGR"
+  },
+  {
+    "position": "Ассосиэт",
+    "count": 2,
+    "category": "analyst",
+    "example_broker": "MICC"
+  },
+  {
+    "position": "брокер",
+    "count": 2,
+    "category": "broker",
+    "example_broker": "SGC"
+  },
+  {
+    "position": "Дотоод хяналтын менежер",
+    "count": 2,
+    "category": "compliance",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Хөрөнгө оруулалтын банкны шинжээч",
+    "count": 2,
+    "category": "analyst",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Клиринг хариуцсан мэргэжилтэн",
+    "count": 1,
+    "category": "operations",
+    "example_broker": "ALTN"
+  },
+  {
+    "position": "Хөрөнгө оруулалтын банкны газрын захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Арилжаа судалгааны газрын захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Ахлах хөрөнгө оруулалтын шинжээч",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Ахлах хөрөнгө оруулалтын зөвлөх",
+    "count": 1,
+    "category": "advisor",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Ахлах дотоод арилжааны брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Ахлах диллер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Маркетингийн хэлтсийн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Санхүү, бүртгэлийн газрын захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Ахлах хөгжүүлэгч- IT",
+    "count": 1,
+    "category": "it",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Хүний нөөцийн мэргэжилтэн",
+    "count": 1,
+    "category": "hr",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Видео графикч",
+    "count": 1,
+    "category": "marketing",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Хуулийн мэргэжилтэн",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Хөгжүүлэгч",
+    "count": 1,
+    "category": "it",
+    "example_broker": "TTOL"
+  },
+  {
+    "position": "Хөрөнгө оруулалтын хэлтсийн ахлах менежер",
+    "count": 1,
+    "category": "advisor",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Уул уурхайн биржийн бүтээгдэхүүн хариуцсан брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Бонд хариуцсан мэргэжилтэн",
+    "count": 1,
+    "category": "other",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Эдийн засгийн шинжээч",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Номинал данс хариуцсан нягтлан",
+    "count": 1,
+    "category": "finance",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Дижитал маркер",
+    "count": 1,
+    "category": "marketing",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Систем хариуцсан менежер",
+    "count": 1,
+    "category": "it",
+    "example_broker": "MNET"
+  },
+  {
+    "position": "Дотоод албаны менежер",
+    "count": 1,
+    "category": "other",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Back office албаны Director",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "IT албаны Director",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Хөрөнгө Оруулалтын албаны Director",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Арилжаа хариуцсан Director",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Харилцагчийн албаны  Vice President",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Backoffice албаны мэргэжилтэн",
+    "count": 1,
+    "category": "operations",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Уул уурхайн биржийн албаны Vice President",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Уул уурхайн биржийн албаны мэргэжилтэн",
+    "count": 1,
+    "category": "other",
+    "example_broker": "BDSC"
+  },
+  {
+    "position": "Блюскай секьюритиз ҮЦК Гүйцэтгэх Захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "BSK"
+  },
+  {
+    "position": "Брокер, Шинжээч",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "BSK"
+  },
+  {
+    "position": "Санхүүгийн ажилтан",
+    "count": 1,
+    "category": "finance",
+    "example_broker": "BULG"
+  },
+  {
+    "position": "Брокер/Ховд",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "BUMB"
+  },
+  {
+    "position": "арилжааны менежер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "BUMB"
+  },
+  {
+    "position": "арилжааны дилер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "BUMB"
+  },
+  {
+    "position": "Төсөл хариуцсан менежер",
+    "count": 1,
+    "category": "other",
+    "example_broker": "BUMB"
+  },
+  {
+    "position": "Төслийн мэргэжилтэн",
+    "count": 1,
+    "category": "other",
+    "example_broker": "BUMB"
+  },
+  {
+    "position": "зөвлөх менежер",
+    "count": 1,
+    "category": "advisor",
+    "example_broker": "BUMB"
+  },
+  {
+    "position": "Бумбат Алтай ҮЦК ХХК  Хөрөнгө оруулалт эрхэлсэн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "BUMB"
+  },
+  {
+    "position": "Брокер /эрдэнэт салбар/",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GAUL"
+  },
+  {
+    "position": "ахлах брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GATR"
+  },
+  {
+    "position": "Санхүү үйл ажиллагааны газрын захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Судалгааны хэлтсийн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Гүцэтгэх захирлын орлогч",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "IT инженер",
+    "count": 1,
+    "category": "it",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Харилцагчийн үйлчилгээний ахлах",
+    "count": 1,
+    "category": "client_service",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Харилцагчийн үйлчилгээний хэлтсийн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Үнэт цаасны бүртгэлийн хэлтсийн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Хөрөнгө оруулалт, эрсдэлийн газрын захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Хөрөнгө оруулалт, эрсдэлийн хэлтсийн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Санхүү, үйл ажиллагаа хэлтсийн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Вип брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Жолооч",
+    "count": 1,
+    "category": "admin",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Комплайнс, дотоод хяналтын ажилтан",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "GLMT"
+  },
+  {
+    "position": "Үйл ажиллагаа хариуцсан дэд захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Орхон салбар брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Сэлэнгэ салбар брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Өмнөговь салбар брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Дорноговь салбар брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Булган салбар брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Эрдэнэт салбар брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Өмнөговь аймагт туслах ажилтан",
+    "count": 1,
+    "category": "admin",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Дорноговь аймагт туслах ажилтан",
+    "count": 1,
+    "category": "admin",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Архангай салбарын брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Сэлэнгэ салбарын брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "Өвөрхангай салбарын брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "GDSC"
+  },
+  {
+    "position": "ГҮЙЦЭТГЭХ ЗАХИРАЛ",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "DRBR"
+  },
+  {
+    "position": "Брокер, үүсгэн байгуулагч",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "LFTI"
+  },
+  {
+    "position": "Ерөнхий Нягтлан бодогч",
+    "count": 1,
+    "category": "finance",
+    "example_broker": "MSSC"
+  },
+  {
+    "position": "Хуульч, Комплайнсийн мэргэжилтэн",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "MSSC"
+  },
+  {
+    "position": "Мэдээлэл технологийн ажилтан",
+    "count": 1,
+    "category": "it",
+    "example_broker": "MSSC"
+  },
+  {
+    "position": "Дотоод хяналтын зөвлөх",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "BLAC"
+  },
+  {
+    "position": "мэдээлийн ажилтан",
+    "count": 1,
+    "category": "client_service",
+    "example_broker": "MIBG"
+  },
+  {
+    "position": "Ахлах контент менежер",
+    "count": 1,
+    "category": "marketing",
+    "example_broker": "MIBG"
+  },
+  {
+    "position": "Дата аналист",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "MIBG"
+  },
+  {
+    "position": "Арилжаа хариуцсан захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "MIBG"
+  },
+  {
+    "position": "Маркетинг хариуцсан захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "MIBG"
+  },
+  {
+    "position": "Нягтлан",
+    "count": 1,
+    "category": "finance",
+    "example_broker": "MSDQ"
+  },
+  {
+    "position": "Гүйцэтгэх захирал, дилер",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "MSDQ"
+  },
+  {
+    "position": "Санхүү эрхэлсэн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "BZIN"
+  },
+  {
+    "position": "орчуулагч",
+    "count": 1,
+    "category": "admin",
+    "example_broker": "MONG"
+  },
+  {
+    "position": "ДИЛЕР",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "MONG"
+  },
+  {
+    "position": "Нягтлан, Брокер Диллер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "MONG"
+  },
+  {
+    "position": "Хуулийн мэргэжилтэн, мөнгө угаах болон терроризмыг санхүүжүүлэхтэй тэмцэх ажилтан,дотоод хяналтын ажилтан",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "MONG"
+  },
+  {
+    "position": "Брокер шинжээч",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "MSEC"
+  },
+  {
+    "position": "Дорнод салбар захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "MSEC"
+  },
+  {
+    "position": "үнэт цаасны шинжээч",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "MSEC"
+  },
+  {
+    "position": "Дотоод хяналт ажилтан",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "MSEC"
+  },
+  {
+    "position": "Брокер , дилер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "MSEC"
+  },
+  {
+    "position": "Дотоод хяналт, Эрсдлийн удирдагын ажилтан",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "MSEC"
+  },
+  {
+    "position": "Ай ти инженер",
+    "count": 1,
+    "category": "it",
+    "example_broker": "MSEC"
+  },
+  {
+    "position": "Шинжээч,Комплайнсийн мэргэжилтэн",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "MSEC"
+  },
+  {
+    "position": "Дотоод хяналт /2012.05/",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "MERG"
+  },
+  {
+    "position": "туслах ажилтан",
+    "count": 1,
+    "category": "admin",
+    "example_broker": "MERG"
+  },
+  {
+    "position": "Гүйцэтгэх захирлын үүргийг түр орлон гүйцэтгэгч",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "NOVL"
+  },
+  {
+    "position": "Дэд захирал, дотоод хяналт",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "Брокер-Аналист",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "Economist",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "Broker",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "Internal Audit, VP",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "Trader",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "Гүйцэтгэх захирлын үүрэг гүйцэтгэгч",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "Эдийн засагч",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "NSEC"
+  },
+  {
+    "position": "ҮЦГ-Дэд захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "ZRGD"
+  },
+  {
+    "position": "Андеррайтерийн албаны захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "Үйл ажиллагаа хариуцсан менежер",
+    "count": 1,
+    "category": "other",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "Санхүүгийн менежер",
+    "count": 1,
+    "category": "finance",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "Судалгаа, маркетингийн албаны захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "Номинал хариуцсан ажилтан",
+    "count": 1,
+    "category": "operations",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "Бүртгэл хариуцсан менежер",
+    "count": 1,
+    "category": "operations",
+    "example_broker": "ARD"
+  },
+  {
+    "position": "Ерөнхий менежер",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "UNDR"
+  },
+  {
+    "position": "Хэнтий аймагт Брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "UNDR"
+  },
+  {
+    "position": "Брокер Бор-Өндөр",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "UNDR"
+  },
+  {
+    "position": "Арилжааны Брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "UNDR"
+  },
+  {
+    "position": "Брокер, Налайх салбарын эрхлэгч",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "UNDR"
+  },
+  {
+    "position": "Брокер, Хэнтий салбар",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "UNDR"
+  },
+  {
+    "position": "Брокер, Хэнтий салбарын эрхлэгч",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "UNDR"
+  },
+  {
+    "position": "Дилер, нягтлан бодогч",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "RISM"
+  },
+  {
+    "position": "Брокер, клирингийн ажилтан",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "RISM"
+  },
+  {
+    "position": "Судалгаа хариуцсан захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "RISM"
+  },
+  {
+    "position": "Үйл ажиллагааны зөвлөх",
+    "count": 1,
+    "category": "advisor",
+    "example_broker": "STIN"
+  },
+  {
+    "position": "Андеррайтерийн албаны ахлах",
+    "count": 1,
+    "category": "underwriter",
+    "example_broker": "STIN"
+  },
+  {
+    "position": "Төлбөр тооцооны ахлах менежер",
+    "count": 1,
+    "category": "operations",
+    "example_broker": "STIN"
+  },
+  {
+    "position": "Дотоод зах зээл хариуцсан дэд захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "ZGB"
+  },
+  {
+    "position": "ВИП менежер",
+    "count": 1,
+    "category": "client_service",
+    "example_broker": "ZGB"
+  },
+  {
+    "position": "Дотоод арилжаа хариуцсан менежер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "ZGB"
+  },
+  {
+    "position": "Дотоо брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "ZGB"
+  },
+  {
+    "position": "зөвлөх",
+    "count": 1,
+    "category": "advisor",
+    "example_broker": "TABO"
+  },
+  {
+    "position": "Бизнес хөгжил, инновацийн хэлтсийн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "TDB"
+  },
+  {
+    "position": "Мэдээллийн технологийн хэлтсийн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "TDB"
+  },
+  {
+    "position": "Маркетинг, харилцагчийн туршлагын ахлах менежер",
+    "count": 1,
+    "category": "marketing",
+    "example_broker": "TDB"
+  },
+  {
+    "position": "Маркетинг, харилцагчийн туршлагын менежер",
+    "count": 1,
+    "category": "marketing",
+    "example_broker": "TDB"
+  },
+  {
+    "position": "Комплайнсын мэргэжилтэн",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "TDB"
+  },
+  {
+    "position": "Эрх зүйч/Комплайнсийн ажилтан",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "TNGR"
+  },
+  {
+    "position": "Андеррайтер хэлтсийн захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "TNGR"
+  },
+  {
+    "position": "Эрсдэл хариуцсан захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "TNGR"
+  },
+  {
+    "position": "Эрсдэлийн мэргэжилтэн",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "UNET"
+  },
+  {
+    "position": "Данс хариуцсан мэргэжилтэн",
+    "count": 1,
+    "category": "operations",
+    "example_broker": "UNET"
+  },
+  {
+    "position": "Ахлах Брокер",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "BATS"
+  },
+  {
+    "position": "Эрх зүйч",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "BATS"
+  },
+  {
+    "position": "Байгаль орчин, нийгэм, засаглалын ахлах шинжээч",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "MICC"
+  },
+  {
+    "position": "ТУЗ-ийн дарга",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "MICC"
+  },
+  {
+    "position": "Харилцагчийн зөвлөх",
+    "count": 1,
+    "category": "advisor",
+    "example_broker": "MICC"
+  },
+  {
+    "position": "Менежер",
+    "count": 1,
+    "category": "other",
+    "example_broker": "MICC"
+  },
+  {
+    "position": "Гадаад арилжааны мэргэжилтэн",
+    "count": 1,
+    "category": "broker",
+    "example_broker": "BKOC"
+  },
+  {
+    "position": "гүйцэтгэх захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "SGC"
+  },
+  {
+    "position": "(empty)",
+    "count": 1,
+    "category": "other",
+    "example_broker": "DOMI"
+  },
+  {
+    "position": "Ня-Бо",
+    "count": 1,
+    "category": "finance",
+    "example_broker": "DOMI"
+  },
+  {
+    "position": "ТУЗ-ийн Нарийн бичгийн дарга",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Оффис жолооч",
+    "count": 1,
+    "category": "admin",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Дата шинжээч",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Хөрөнгө оруулалтын банкны ассошейт",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Бага тэнгэр салбарын захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Ахлах хуулийн зөвлөх",
+    "count": 1,
+    "category": "compliance",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Үйл ажиллагаа, бизнес хөгжүүлэлт хариуцсан захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Зах зээл шинжээч",
+    "count": 1,
+    "category": "analyst",
+    "example_broker": "INVC"
+  },
+  {
+    "position": "Байгууллагын бизнес хариуцсан захирал",
+    "count": 1,
+    "category": "executive",
+    "example_broker": "INVC"
+  }
+]

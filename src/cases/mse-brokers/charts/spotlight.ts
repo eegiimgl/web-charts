@@ -113,15 +113,6 @@ export function spotlightChart(): ChartSpec {
         stacked: true,
         toolbar: {
           show: true,
-          tools: {
-            download: true,
-            selection: true,
-            zoom: true,
-            zoomin: true,
-            zoomout: true,
-            pan: true,
-            reset: true,
-          },
           export: {
             csv: { filename: 'mse-broker-spotlight', headerCategory: 'month' },
             svg: { filename: 'mse-broker-spotlight' },
