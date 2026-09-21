@@ -6,6 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="web-charts — ApexCharts графикаар бүтээсэн дүрслэлийн кейсүүд. *.eegii.dev төсөл" />
     <title>web-charts · eegii.dev</title>
+    <!-- Google Analytics 4 (ID is public by design) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-V0RRE88QTS"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      // SPA: page views are sent manually on each route (see main.ts).
+      gtag('config', 'G-V0RRE88QTS', { send_page_view: false });
+    </script>
   </head>
   <body>
     <div id="app"></div>

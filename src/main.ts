@@ -5,6 +5,20 @@ import { renderCaseDetail } from './pages/case';
 
 const app = document.getElementById('app')!;
 
+declare global {
+  interface Window {
+    gtag?: (...args: unknown[]) => void;
+  }
+}
+
+/** SPA page-view: every hash route (home, case, tab) is a distinct view. */
+function trackPageView(): void {
+  window.gtag?.('event', 'page_view', {
+    page_path: `${window.location.pathname}${window.location.hash || '#/'}`,
+    page_title: document.title,
+  });
+}
+
 function shell(inner: string): string {
   return `
     <header class="site-header">
@@ -41,6 +55,7 @@ async function route(): Promise<void> {
           <p><code>${match[1]}</code> slug-тай кейс байхгүй байна.</p>
           <a class="btn" href="#/">← Бүх кейс рүү буцах</a>
         </section>`);
+      trackPageView();
       return;
     }
     app.innerHTML = shell(`<div id="page"></div>`);
@@ -56,11 +71,13 @@ async function route(): Promise<void> {
         <a class="btn" href="#/">← Бүх кейс рүү буцах</a>
       </section>`;
     }
+    trackPageView();
     return;
   }
 
   app.innerHTML = shell(`<div id="page"></div>`);
   renderHome(document.getElementById('page')!, cases);
+  trackPageView();
 }
 
 window.addEventListener('hashchange', () => {
