@@ -82,7 +82,7 @@ export async function renderCaseDetail(
   // Mount charts after DOM insert. Destroy on route change to avoid leaks.
   // ApexCharts is lazy-loaded so the home page stays light.
   const { default: ApexCharts } = await import('apexcharts');
-  const instances: ApexChartsType[] = [];
+  const instances: { chart: ApexChartsType; card: HTMLElement; height: number }[] = [];
   groups.forEach((g) => {
     for (const c of g.charts) {
       const card = el.querySelector<HTMLElement>(`[data-spec="${c.id}"]`);
@@ -93,18 +93,60 @@ export async function renderCaseDetail(
       }
       const node = card.querySelector(`#chart-${meta.slug}-${c.id}`);
       if (!node) continue;
+      const height = c.height ?? 350;
       const chart = new ApexCharts(node, {
         ...(c.options ?? {}),
-        chart: { foreColor: '#c9cfe6', height: c.height ?? 350, ...(c.options?.chart ?? {}) },
+        chart: { foreColor: '#c9cfe6', height, ...(c.options?.chart ?? {}) },
         // Cards are dark: light axis/legend text, dark tooltip, visible grid.
         tooltip: { theme: 'dark', ...(c.options?.tooltip ?? {}) },
         grid: { borderColor: '#2b3252', ...(c.options?.grid ?? {}) },
       });
       chart.render();
-      instances.push(chart);
+      instances.push({ chart, card, height });
       if (c.onMounted) c.onMounted(card, chart);
     }
   });
+
+  // Fullscreen toggle per card: overlay + grow the chart, Esc closes.
+  const closeFullscreen = () => {
+    el.querySelectorAll<HTMLElement>('.chart-card.fullscreen').forEach((card) => {
+      card.classList.remove('fullscreen');
+      const btn = card.querySelector('.fs-btn');
+      if (btn) btn.textContent = '⛶';
+      const found = instances.find((i) => i.card === card);
+      if (found) void found.chart.updateOptions({ chart: { height: found.height } }, false, false);
+    });
+    document.body.classList.remove('fs-open');
+    requestAnimationFrame(() => window.dispatchEvent(new Event('resize')));
+  };
+  el.querySelectorAll<HTMLElement>('.chart-card').forEach((card) => {
+    const btn = document.createElement('button');
+    btn.className = 'fs-btn';
+    btn.textContent = '⛶';
+    btn.title = 'Бүтэн дэлгэц';
+    btn.addEventListener('click', () => {
+      const open = card.classList.toggle('fullscreen');
+      document.body.classList.toggle('fs-open', open);
+      btn.textContent = open ? '✕' : '⛶';
+      btn.title = open ? 'Хаах' : 'Бүтэн дэлгэц';
+      const found = instances.find((i) => i.card === card);
+      if (open && found) {
+        void found.chart.updateOptions(
+          { chart: { height: Math.max(found.height, window.innerHeight - 230) } },
+          false,
+          false,
+        );
+      } else if (found) {
+        void found.chart.updateOptions({ chart: { height: found.height } }, false, false);
+      }
+      requestAnimationFrame(() => window.dispatchEvent(new Event('resize')));
+    });
+    card.prepend(btn);
+  });
+  const onKey = (e: KeyboardEvent) => {
+    if (e.key === 'Escape') closeFullscreen();
+  };
+  document.addEventListener('keydown', onKey);
 
   // Tab switching: show one panel, then let charts re-measure
   // (ApexCharts in a hidden container mis-measures; window resize fixes it).
@@ -125,7 +167,9 @@ export async function renderCaseDetail(
   window.addEventListener(
     'hashchange',
     () => {
-      for (const chart of instances) void chart.destroy();
+      for (const { chart } of instances) void chart.destroy();
+      document.removeEventListener('keydown', onKey);
+      document.body.classList.remove('fs-open');
     },
     { once: true },
   );
