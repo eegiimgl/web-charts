@@ -11,7 +11,7 @@ export function renderHome(el: HTMLElement, cases: CaseEntry[]): void {
 
   el.innerHTML = `
     <section class="hero">
-      <h1>График дүрслэлийн кейсүүд</h1>
+      <h1>Сонирхолтой График Чартууд</h1>
       <p>Карт бүр тусдаа кейс юм: өөрийн өгөгдөл + өөрийн ApexCharts графикууд.
          График болон тоон мэдээллийг үзэхийн тулд нэгийг сонгоно уу.</p>
     </section>
@@ -21,8 +21,11 @@ export function renderHome(el: HTMLElement, cases: CaseEntry[]): void {
 
 function card(c: CaseEntry): string {
   const badges = c.meta.chartTypes.map((t) => `<span class="badge">${t}</span>`).join('');
+  const style = c.meta.cover
+    ? ` style="background-image: linear-gradient(160deg, ${c.meta.tint ?? '#232a52'}A6 0%, rgba(15, 18, 32, 0.80) 78%), url('${c.meta.cover}')"`
+    : '';
   return `
-    <a class="card" href="#/c/${c.meta.slug}">
+    <a class="card${c.meta.cover ? ' cover' : ''}" href="#/c/${c.meta.slug}"${style}>
       <div class="card-top">${badges}</div>
       <h2>${c.meta.title}</h2>
       <p class="tagline">${c.meta.tagline}</p>

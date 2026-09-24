@@ -29,6 +29,7 @@ export async function renderCaseDetail(
           ${meta.chartTypes.map((t) => `<span class="badge">${t}</span>`).join('')}
           ${meta.tags.map((t) => `<span class="tag">#${t}</span>`).join('')}
           ${meta.sourceUrl ? `<a class="source-link" href="${meta.sourceUrl}" target="_blank" rel="noreferrer">${meta.sourceLabel ?? 'Өгөгдлийн эх сурвалж'} ↗</a>` : ''}
+          ${meta.ownerName ? `<span class="tag">Өгөгдөл эзэмшигч: ${meta.ownerUrl ? `<a class="source-link" href="${meta.ownerUrl}" target="_blank" rel="noreferrer">${meta.ownerName} ↗</a>` : meta.ownerName}</span>` : ''}
         </div>
       </div>
     </section>

@@ -1,4 +1,5 @@
 import type { CaseMeta } from '../types';
+import cover from './cover.png';
 
 export const meta: CaseMeta = {
   slug: 'mse-brokers',
@@ -11,4 +12,6 @@ export const meta: CaseMeta = {
   dateAdded: '2026-09-19',
   sourceUrl: 'https://www.mse.mn/report-and-research',
   sourceLabel: 'МХБ — гишүүдийн арилжааны тайлан',
+  cover,
+  tint: '#1e3a8a',
 };

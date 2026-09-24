@@ -23,20 +23,18 @@ function shell(inner: string): string {
   return `
     <header class="site-header">
       <div class="container header-inner">
-        <a class="brand" href="#/">
+        <span class="brand">
           <span class="brand-mark">◧</span>
-          <span class="brand-text">web-charts <em>· eegii.dev</em></span>
-        </a>
-        <nav class="nav">
-          <a href="#/">Бүх кейс</a>
-          <a href="https://apexcharts.com/javascript-chart-demos" target="_blank" rel="noreferrer">ApexCharts демо ↗</a>
-        </nav>
+          <a class="brand-text" href="#/">web-charts</a>
+          <em class="brand-sep">·</em>
+          <a class="brand-domain" href="https://eegii.dev" target="_blank" rel="noreferrer">eegii.dev</a>
+        </span>
       </div>
     </header>
     <main class="container">${inner}</main>
     <footer class="site-footer">
       <div class="container">
-        <span>${cases.length} кейс · ApexCharts ашиглан бүтээв</span>
+        <span>${cases.length} кейс · <a href="https://apexcharts.com" target="_blank" rel="noreferrer">ApexCharts</a> ашиглан бүтээв</span>
       </div>
     </footer>
   `;

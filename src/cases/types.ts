@@ -48,6 +48,14 @@ export interface CaseMeta {
   sourceUrl?: string;
   /** Label for the source link. Defaults to 'Өгөгдлийн эх сурвалж'. */
   sourceLabel?: string;
+  /** Optional cover image (imported asset URL) shown as the home card background. */
+  cover?: string;
+  /** Tint color (hex) blended over the cover for readability, e.g. '#1e3a8a'. */
+  tint?: string;
+  /** Data owner name, e.g. 'Baterdene Chimeddorj'. Rendered with `ownerUrl` when set. */
+  ownerName?: string;
+  /** Data owner URL (profile page). */
+  ownerUrl?: string;
 }
 
 export interface UseCase {

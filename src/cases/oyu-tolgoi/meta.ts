@@ -1,4 +1,5 @@
 import type { CaseMeta } from '../types';
+import cover from './cover.png';
 
 export const meta: CaseMeta = {
   slug: 'oyu-tolgoi',
@@ -9,4 +10,8 @@ export const meta: CaseMeta = {
   tags: ['oyu-tolgoi', 'forecast', 'copper', 'gold', 'yearly'],
   chartTypes: ['area', 'streamgraph', 'column'],
   dateAdded: '2026-09-23',
+  cover,
+  tint: '#8a3c10',
+  ownerName: 'Baterdene Chimeddorj',
+  ownerUrl: 'https://www.facebook.com/chbata',
 };
