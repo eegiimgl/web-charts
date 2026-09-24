@@ -159,8 +159,13 @@ export async function renderCaseDetail(
       el.querySelectorAll<HTMLElement>('.chart-card').forEach((card) => {
         card.hidden = card.dataset.tabpanel !== String(idx);
       });
-      // Shareable URL without a full re-route (replaceState skips hashchange).
+      // Shareable URL without a full re-route (replaceState skips hashchange),
+      // plus a manual page_view so tab switches are tracked like page views.
       history.replaceState(null, '', `#/c/${meta.slug}/t/${idx}`);
+      window.gtag?.('event', 'page_view', {
+        page_path: `${window.location.pathname}#/c/${meta.slug}/t/${idx}`,
+        page_title: document.title,
+      });
       requestAnimationFrame(() => window.dispatchEvent(new Event('resize')));
     });
   });
