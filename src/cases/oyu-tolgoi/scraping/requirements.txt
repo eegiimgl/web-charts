@@ -1,0 +1,2 @@
+# Per-use-case Python deps. Install with: pip install -r requirements.txt
+openpyxl  # price-forecast.xlsx reader

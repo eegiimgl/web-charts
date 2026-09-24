@@ -1,0 +1,11 @@
+{
+  "generated_at": "2026-09-24T01:45:38.376978+00:00",
+  "source_file": "price-forecast.xlsx",
+  "source_sheet": "Sheet2 (2)",
+  "ignored_sheets": [
+    "Sheet1",
+    "Sheet2"
+  ],
+  "series_count": 17,
+  "volume_x_price_check": "ok (diff 0.0000%)"
+}

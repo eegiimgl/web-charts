@@ -149,7 +149,17 @@ main { padding: 40px 0 60px; }
   font-size: 14px;
   min-width: 220px;
 }
-.control-label input[type='search']:focus { outline: none; border-color: var(--accent); }
+.control-label input[type='number'] {
+  background: var(--surface-2);
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 8px 12px;
+  font-size: 14px;
+  width: 150px;
+}
+.control-label input[type='search']:focus,
+.control-label input[type='number']:focus { outline: none; border-color: var(--accent); }
 
 .broker-list { max-height: 320px; margin: 12px 0 20px; }
 .broker-list tbody tr { cursor: pointer; }

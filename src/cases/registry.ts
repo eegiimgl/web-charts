@@ -1,5 +1,6 @@
 import type { CaseEntry, UseCase } from './types';
 import { meta as mseBrokersMeta } from './mse-brokers/meta';
+import { meta as oyuTolgoiMeta } from './oyu-tolgoi/meta';
 
 // ─── Registry ──────────────────────────────────────────────
 // To add a new use-case:
@@ -18,6 +19,10 @@ export const cases: CaseEntry[] = [
   {
     meta: mseBrokersMeta,
     load: () => import('./mse-brokers').then((m): UseCase => m.mseBrokersCase),
+  },
+  {
+    meta: oyuTolgoiMeta,
+    load: () => import('./oyu-tolgoi').then((m): UseCase => m.oyuTolgoiCase),
   },
 ];
 
